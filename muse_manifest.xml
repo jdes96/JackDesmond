@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1571063005916">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1571064734505">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="62426684" ref="phone>index"/>
@@ -10,12 +10,12 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_b-master.css" crc="3927860851" ref="index:about"/>
-    <file name="index.css" crc="4020566417" ref="index"/>
-    <file name="about.css" crc="4226254025" ref="about"/>
-    <file name="nomq_preview_master_b-master.css" crc="189059551" ref="about:index"/>
-    <file name="nomq_about.css" crc="412588703" ref="about"/>
-    <file name="nomq_index.css" crc="4248288559" ref="index"/>
+    <file name="master_b-master.css" crc="4281281322" ref="index:about"/>
+    <file name="index.css" crc="92729416" ref="index"/>
+    <file name="about.css" crc="31808819" ref="about"/>
+    <file name="nomq_preview_master_b-master.css" crc="273952518" ref="about:index"/>
+    <file name="nomq_about.css" crc="3806072344" ref="about"/>
+    <file name="nomq_index.css" crc="334387187" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:phone>index:phone>about"/>
@@ -33,7 +33,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u173-7.png" crc="98816133" ref="index:about"/>
+    <file name="u173-7.png" crc="326385320" ref="index:about"/>
     <file name="icons8-instagram-50.png" crc="469895057" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -82,9 +82,10 @@
     <file name="u189-r.png" crc="520357056" ref="index:about"/>
     <file name="u204_states.png" crc="526964315" ref="index:about"/>
     <file name="u204_states-r.png" crc="4130788534" ref="index:about"/>
-    <file name="u247_states.png" crc="486880330" ref="index:about"/>
-    <file name="u247_states-r.png" crc="4049267406" ref="index:about"/>
+    <file name="u247_states.png" crc="4165517707" ref="index:about"/>
+    <file name="u247_states-r.png" crc="4185510803" ref="index:about"/>
+    <file name="b-master-favicon.ico" crc="4253806463" ref="about"/>
   </folder>
-  <file name="index.html" crc="4280069951" seo="true" mt="1571062952670" redirect="true"/>
-  <file name="about.html" crc="430327598" seo="true" mt="1571062952670" redirect="true"/>
+  <file name="index.html" crc="3993200617" seo="true" mt="1571064720077" redirect="true"/>
+  <file name="about.html" crc="3931459851" seo="true" mt="1571064720077" redirect="true"/>
 </manifest>
