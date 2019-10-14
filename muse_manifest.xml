@@ -1,57 +1,77 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://github.com/jdes96/JackDesmond" resolutions="1x" timestamp="1571060686850">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1571063005916">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+      <file name="about.css" crc="3833050251" ref="phone>about"/>
+      <file name="nomq_about.css" crc="3824530138" ref="phone>about"/>
+    </folder>
+    <file name="index.html" crc="4202766848" seo="true" mt="1571061584148" redirect="false"/>
+    <file name="about.html" crc="3901294121" seo="true" mt="1571061584312" redirect="false"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="taketori.css" crc="3949100683" ref="home"/>
-    <file name="master_a-master.css" crc="488904886" ref="home"/>
-    <file name="master_b-master.css" crc="4264192843" ref="index:about"/>
-    <file name="index.css" crc="104263335" ref="index"/>
-    <file name="home.css" crc="4104694796" ref="home"/>
-    <file name="about.css" crc="15822102" ref="about"/>
+    <file name="master_b-master.css" crc="3927860851" ref="index:about"/>
+    <file name="index.css" crc="4020566417" ref="index"/>
+    <file name="about.css" crc="4226254025" ref="about"/>
+    <file name="nomq_preview_master_b-master.css" crc="189059551" ref="about:index"/>
+    <file name="nomq_about.css" crc="412588703" ref="about"/>
+    <file name="nomq_index.css" crc="4248288559" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:about"/>
-    <file name="museutils.js" crc="3803043152" ref="index:home:about"/>
-    <file name="whatinput.js" crc="86476730" ref="index:home:about"/>
-    <file name="museconfig.js" crc="380897831" ref="index:home:about"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:home:about"/>
-    <file name="taketori.js" crc="290790004" ref="home"/>
-    <file name="require.js" crc="4157109226" ref="index:home:about"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:phone>index:phone>about"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:phone>index:phone>about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:phone>index:phone>about"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:phone>index:phone>about"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:phone>index:phone>about"/>
+    <file name="require.js" crc="4157109226" ref="index:about:phone>index:phone>about"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index"/>
   </folder>
   <folder name="images">
-    <file name="u116-4.png" crc="3974834690" ref="home"/>
-    <file name="blank.gif" crc="4208392903" ref="index:home:about"/>
-    <file name="u118.png" crc="3779015897" ref="home"/>
-    <file name="u118-r.png" crc="4191040561" ref="home"/>
-    <file name="u119.png" crc="313238948" ref="home"/>
-    <file name="u119-r.png" crc="129251856" ref="home"/>
-    <file name="u120.png" crc="4246901200" ref="home"/>
-    <file name="u120-r.png" crc="361609403" ref="home"/>
-    <file name="u121.png" crc="303455542" ref="home"/>
-    <file name="u121-r.png" crc="158656560" ref="home"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about"/>
     <file name="1_img00015.jpg" crc="527408166" ref="about">
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="u173-7.png" crc="98816133" ref="index:about"/>
-    <file name="icons8-instagram-50.png" crc="16973688" seo="true" ref="index:about">
+    <file name="icons8-instagram-50.png" crc="469895057" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
-    </file>
-    <file name="icons8-linkedin-50.png" crc="3792531439" seo="true" ref="index:about">
-      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="icons8-twitter-squared-50.png" crc="150128511" seo="true" ref="index:about">
+    <file name="icons8-linkedin-50.png" crc="232328558" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
-    </file>
-    <file name="icons8-youtube-50.png" crc="234913711" seo="true" ref="index:about">
-      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="icons8-facebook-50.png" crc="32482328" seo="true" ref="index:about">
+    <file name="icons8-twitter-squared-50.png" crc="4264020858" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="icons8-youtube-50.png" crc="4019870270" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="icons8-facebook-50.png" crc="146360787" seo="true" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="u183.png" crc="295100826" ref="index:about"/>
@@ -65,7 +85,6 @@
     <file name="u247_states.png" crc="486880330" ref="index:about"/>
     <file name="u247_states-r.png" crc="4049267406" ref="index:about"/>
   </folder>
-  <file name="index.html" crc="228161875" seo="true" mt="1571060677764" redirect="true"/>
-  <file name="home.html" crc="4035555759" mt="1571060637675" redirect="true"/>
-  <file name="about.html" crc="195065348" seo="true" mt="1571060672614" redirect="true"/>
+  <file name="index.html" crc="4280069951" seo="true" mt="1571062952670" redirect="true"/>
+  <file name="about.html" crc="430327598" seo="true" mt="1571062952670" redirect="true"/>
 </manifest>
