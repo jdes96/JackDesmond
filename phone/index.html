@@ -18,12 +18,50 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=62426684" id="pagesheet"/>
-   </head>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=457585255"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3898079449" id="pagesheet"/>
+    <!--HTML Widget code-->
+  
+<style type="text/css">#u957.size_fluid_width_height iframe { position:absolute; left:0; top:0; }</style>
+
+ </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- column -->
-   <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="0" data-content-below-spacer="570" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+  <div class="clearfix borderbox" id="page"><!-- group -->
+   <div class="clearfix grpelem" id="pu788"><!-- group -->
+    <div class="clip_frame grpelem" id="u788" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- image -->
+     <img class="block" id="u788_img" src="../images/1_img00015.jpg?crc=527408166" alt="" width="869" height="582"/>
+    </div>
+    <a class="nonblock nontext grpelem" id="u950" href="../index.html?devicelock=desktop"><!-- state-based BG images --><div id="u950_states"><img alt="Jack Desmond" src="../images/blank.gif?crc=4208392903"/><div class="fluid_height_spacer"></div></div></a>
+    <div class="grpelem" id="u967"><!-- simple frame -->
+     <div class="fluid_height_spacer"></div>
+    </div>
+    <div class="size_fluid_width_height grpelem" id="u957" data-pintopage="page_fluidx" data-sizePolicy="fluidWidthHeight"><!-- custom html -->
+     <div class="fluid_height_spacer"></div>
+     
+    <iframe class="actAsDiv" style="width:100%;height:100%;" src="//player.vimeo.com/video/359842631?title=1&amp;byline=0&amp;portrait=0&amp;color=FFFFFF&amp;autoplay=0&amp;loop=0&amp;wmode=transparent" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+    </div>
+    <img class="grpelem" id="u970-4" alt="SHOWREEL" src="../images/u970-4.png?crc=263650263" data-image-width="351"/><!-- rasterized frame -->
+   </div>
+   <div class="verticalspacer" data-offset-top="574" data-content-above-spacer="582" data-content-below-spacer="70" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="clearfix grpelem" id="pu874"><!-- group -->
+    <div class="browser_width grpelem" id="u874-bw">
+     <div id="u874"><!-- simple frame --></div>
+    </div>
+    <div class="rounded-corners clip_frame grpelem" id="u807" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
+     <img class="block" id="u807_img" src="../images/icons8-instagram-50.png?crc=469895057" alt="" width="33" height="33"/>
+    </div>
+    <div class="rounded-corners clip_frame grpelem" id="u809" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
+     <img class="block" id="u809_img" src="../images/icons8-linkedin-50.png?crc=232328558" alt="" width="33" height="33"/>
+    </div>
+    <div class="rounded-corners clip_frame grpelem" id="u811" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- image -->
+     <img class="block" id="u811_img" src="../images/icons8-twitter-squared-50.png?crc=4264020858" alt="" width="33" height="33"/>
+    </div>
+   </div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="../images/u950_states-r.png?crc=229704598" alt=""/>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -40,6 +78,8 @@ var muse_init=function(){require.config({baseUrl:"../"});require(["jquery","muse
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
