@@ -12,4 +12,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>https://jdes96.github.io/JackDesmond/showreel.html</loc>
+    <lastmod>2019-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

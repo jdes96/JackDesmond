@@ -1,51 +1,55 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574703105201">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574704953235">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="430056875" ref="index"/>
-    <file name="about.css" crc="451717685" ref="about"/>
-    <file name="nomq_about.css" crc="106531417" ref="about"/>
-    <file name="nomq_index.css" crc="212896837" ref="index"/>
-    <file name="master_new-b-master.css" crc="521931660" ref="index:about"/>
-    <file name="nomq_preview_master_new-b-master.css" crc="3957593667" ref="index:about"/>
+    <file name="index.css" crc="4203412530" ref="index"/>
+    <file name="about.css" crc="76542666" ref="about"/>
+    <file name="nomq_about.css" crc="3828323367" ref="about"/>
+    <file name="nomq_index.css" crc="87941157" ref="index"/>
+    <file name="master_new-b-master.css" crc="4024029906" ref="index:about:showreel"/>
+    <file name="nomq_preview_master_new-b-master.css" crc="4254150097" ref="index:about:showreel"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="showreel.css" crc="4186653486" ref="showreel"/>
+    <file name="nomq_showreel.css" crc="303421865" ref="showreel"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
-    <file name="museutils.js" crc="3803043152" ref="index:about"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about"/>
-    <file name="museconfig.js" crc="380897831" ref="index:about"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:about"/>
-    <file name="require.js" crc="4157109226" ref="index:about"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index"/>
-    <file name="webpro.js" crc="242022427" ref="index:about"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="index:about"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:showreel"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:showreel"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:showreel"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:showreel"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:showreel"/>
+    <file name="require.js" crc="4157109226" ref="index:about:showreel"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index:showreel"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index:showreel"/>
+    <file name="webpro.js" crc="242022427" ref="index:about:showreel"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:about:showreel"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:about"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:showreel"/>
     <file name="1_img00015.jpg" crc="527408166" ref="about">
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="new-b-master-favicon.ico" crc="4253806463" ref="about"/>
-    <file name="u1010.png" crc="4288478746" ref="index:about"/>
-    <file name="u1010-r.png" crc="432574939" ref="index:about"/>
-    <file name="u1013.png" crc="3837732864" ref="index:about"/>
-    <file name="u1013-r.png" crc="4069856843" ref="index:about"/>
-    <file name="u1016.png" crc="523851178" ref="index:about"/>
-    <file name="u1016-r.png" crc="380022146" ref="index:about"/>
-    <file name="hamburger_white.png" crc="4116752656" ref="about:index">
+    <file name="u1010.png" crc="4288478746" ref="index:about:showreel"/>
+    <file name="u1010-r.png" crc="432574939" ref="index:about:showreel"/>
+    <file name="u1013.png" crc="3837732864" ref="index:about:showreel"/>
+    <file name="u1013-r.png" crc="4069856843" ref="index:about:showreel"/>
+    <file name="u1016.png" crc="523851178" ref="index:about:showreel"/>
+    <file name="u1016-r.png" crc="380022146" ref="index:about:showreel"/>
+    <file name="hamburger_white.png" crc="4116752656" ref="about:index:showreel">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="x-mark_white.png" crc="3804585791" ref="about:index">
+    <file name="x-mark_white.png" crc="3804585791" ref="about:index:showreel">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -57,6 +61,7 @@
     <file name="jack_desmond_on_set_looking_for-u1793-fr.jpg" crc="355087340" ref="about"/>
     <file name="jack_desmond_on_set_looking_for-u1793-fr2.jpg" crc="4111686956" ref="about"/>
   </folder>
-  <file name="index.html" crc="4180299537" seo="true" mt="1574703092662" redirect="true"/>
-  <file name="about.html" crc="3991196137" seo="true" mt="1574703041438" redirect="true"/>
+  <file name="index.html" crc="341427673" seo="true" mt="1574704893798" redirect="true"/>
+  <file name="about.html" crc="480545433" seo="true" mt="1574704936374" redirect="true"/>
+  <file name="showreel.html" crc="462234878" seo="true" mt="1574704893798" redirect="true"/>
 </manifest>
