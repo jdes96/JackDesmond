@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574699016513">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574699934035">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3928614353" ref="index"/>
-    <file name="about.css" crc="483580836" ref="about"/>
-    <file name="nomq_about.css" crc="4051029528" ref="about"/>
-    <file name="nomq_index.css" crc="179591093" ref="index"/>
-    <file name="master_new-b-master.css" crc="277287756" ref="index:about"/>
+    <file name="index.css" crc="130813252" ref="index"/>
+    <file name="about.css" crc="480234419" ref="about"/>
+    <file name="nomq_about.css" crc="3879048880" ref="about"/>
+    <file name="nomq_index.css" crc="3800403346" ref="index"/>
+    <file name="master_new-b-master.css" crc="4167546572" ref="index:about"/>
     <file name="nomq_preview_master_new-b-master.css" crc="4148772464" ref="index:about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
   </folder>
@@ -13,7 +13,7 @@
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
     <file name="museutils.js" crc="3803043152" ref="index:about"/>
     <file name="whatinput.js" crc="86476730" ref="index:about"/>
-    <file name="museconfig.js" crc="380897831" ref="index:about"/>
+    <file name="museconfig.js" crc="4173490262" ref="index:about"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:about"/>
     <file name="require.js" crc="4157109226" ref="index:about"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about"/>
@@ -43,7 +43,16 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
+    <file name="hamburger.svg" crc="3900513011" seo="true" ref="about:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="hamburger_poster_.png" crc="239446368" ref="about"/>
   </folder>
-  <file name="index.html" crc="357390235" seo="true" mt="1574699007945" redirect="true"/>
-  <file name="about.html" crc="245424081" seo="true" mt="1574699007945" redirect="true"/>
+  <file name="index.html" crc="3812474237" seo="true" mt="1574699930920" redirect="true"/>
+  <file name="about.html" crc="4097052504" seo="true" mt="1574699930920" redirect="true"/>
 </manifest>
