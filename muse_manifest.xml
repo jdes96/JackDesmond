@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574698493200">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574699016513">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4213268699" ref="index"/>
-    <file name="about.css" crc="199781256" ref="about"/>
+    <file name="index.css" crc="3928614353" ref="index"/>
+    <file name="about.css" crc="483580836" ref="about"/>
     <file name="nomq_about.css" crc="4051029528" ref="about"/>
     <file name="nomq_index.css" crc="179591093" ref="index"/>
-    <file name="master_new-b-master.css" crc="4120233904" ref="index:about"/>
+    <file name="master_new-b-master.css" crc="277287756" ref="index:about"/>
     <file name="nomq_preview_master_new-b-master.css" crc="4148772464" ref="index:about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
   </folder>
@@ -44,6 +44,6 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="274112090" seo="true" mt="1574698434042" redirect="true"/>
-  <file name="about.html" crc="4120332279" seo="true" mt="1574698434042" redirect="true"/>
+  <file name="index.html" crc="357390235" seo="true" mt="1574699007945" redirect="true"/>
+  <file name="about.html" crc="245424081" seo="true" mt="1574699007945" redirect="true"/>
 </manifest>
