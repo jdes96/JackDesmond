@@ -1,14 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574689002594">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574693620851">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_b-master.css" crc="22959111" ref="about"/>
-    <file name="index.css" crc="4158487710" ref="index"/>
-    <file name="about.css" crc="4189108735" ref="about"/>
-    <file name="nomq_preview_master_b-master.css" crc="189059551" ref="about"/>
-    <file name="nomq_about.css" crc="4091219443" ref="about"/>
-    <file name="nomq_index.css" crc="4242402432" ref="index"/>
-    <file name="master_new-b-master.css" crc="463719552" ref="index"/>
-    <file name="nomq_preview_master_new-b-master.css" crc="4072306927" ref="index"/>
+    <file name="index.css" crc="3767734038" ref="index"/>
+    <file name="about.css" crc="3760248155" ref="about"/>
+    <file name="nomq_about.css" crc="4209051004" ref="about"/>
+    <file name="nomq_index.css" crc="3808547418" ref="index"/>
+    <file name="master_new-b-master.css" crc="4120233904" ref="index:about"/>
+    <file name="nomq_preview_master_new-b-master.css" crc="4148772464" ref="index:about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
@@ -17,46 +16,34 @@
     <file name="museconfig.js" crc="380897831" ref="index:about"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:about"/>
     <file name="require.js" crc="4157109226" ref="index:about"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index:about"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:about"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:about"/>
-    <file name="1_img00015.jpg" crc="527408166" ref="about:index">
+    <file name="1_img00015.jpg" crc="527408166" ref="about">
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u183.png" crc="4245294108" ref="about"/>
-    <file name="u183-r.png" crc="4241724726" ref="about"/>
-    <file name="u186.png" crc="4230506382" ref="about"/>
-    <file name="u186-r.png" crc="38170701" ref="about"/>
-    <file name="u189.png" crc="325053922" ref="about"/>
-    <file name="u189-r.png" crc="351618975" ref="about"/>
-    <file name="u204_states.png" crc="526964315" ref="about"/>
-    <file name="u204_states-r.png" crc="4130788534" ref="about"/>
-    <file name="u247_states.png" crc="4275976325" ref="about"/>
-    <file name="u247_states-r.png" crc="4261717826" ref="about"/>
-    <file name="b-master-favicon.ico" crc="4253806463" ref="about"/>
-    <file name="u250.png" crc="281532576" ref="about"/>
-    <file name="u250-r.png" crc="168290431" ref="about"/>
-    <file name="u258.png" crc="77717122" ref="about"/>
-    <file name="u258-r.png" crc="47813308" ref="about"/>
-    <file name="u265.png" crc="3899590767" ref="about"/>
-    <file name="u265-r.png" crc="4180177648" ref="about"/>
-    <file name="new-b-master-favicon.ico" crc="4253806463" ref="index"/>
-    <file name="u1010.png" crc="281532576" ref="index"/>
-    <file name="u1010-r.png" crc="168290431" ref="index"/>
-    <file name="u1013.png" crc="77717122" ref="index"/>
-    <file name="u1013-r.png" crc="47813308" ref="index"/>
-    <file name="u1016.png" crc="3899590767" ref="index"/>
-    <file name="u1016-r.png" crc="4180177648" ref="index"/>
-    <file name="hamburger_white.svg" crc="242641529" ref="index"/>
-    <file name="hamburger_white_poster_u1418.png" crc="123596332" ref="index"/>
-    <file name="x-mark_white.svg" crc="405134332" ref="index"/>
-    <file name="x-mark_white_poster_u1391.png" crc="186846981" ref="index"/>
+    <file name="new-b-master-favicon.ico" crc="4253806463" ref="about"/>
+    <file name="u1010.png" crc="281532576" ref="index:about"/>
+    <file name="u1010-r.png" crc="168290431" ref="index:about"/>
+    <file name="u1013.png" crc="77717122" ref="index:about"/>
+    <file name="u1013-r.png" crc="47813308" ref="index:about"/>
+    <file name="u1016.png" crc="3899590767" ref="index:about"/>
+    <file name="u1016-r.png" crc="4180177648" ref="index:about"/>
+    <file name="hamburger_white.svg" crc="242641529" ref="about"/>
+    <file name="hamburger_white_poster_u1418.png" crc="123596332" ref="about"/>
+    <file name="x-mark_white.svg" crc="405134332" ref="about"/>
+    <file name="x-mark_white_poster_u1391.png" crc="186846981" ref="about"/>
+    <file name="jack_desmond_headshot.jpg" crc="4265934577" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="257792800" seo="true" mt="1574687799143" redirect="true"/>
-  <file name="about.html" crc="46684091" seo="true" mt="1574684245369" redirect="true"/>
+  <file name="index.html" crc="3911868875" seo="true" mt="1574693603451" redirect="true"/>
+  <file name="about.html" crc="3914986752" seo="true" mt="1574693618013" redirect="true"/>
 </manifest>
