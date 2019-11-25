@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574700752505">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574702642002">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3928991756" ref="index"/>
-    <file name="about.css" crc="451322719" ref="about"/>
-    <file name="nomq_about.css" crc="4051029528" ref="about"/>
-    <file name="nomq_index.css" crc="179591093" ref="index"/>
-    <file name="master_new-b-master.css" crc="444426302" ref="index:about"/>
+    <file name="index.css" crc="3897312555" ref="index"/>
+    <file name="about.css" crc="61226236" ref="about"/>
+    <file name="nomq_about.css" crc="106531417" ref="about"/>
+    <file name="nomq_index.css" crc="34763183" ref="index"/>
+    <file name="master_new-b-master.css" crc="150989554" ref="index:about"/>
     <file name="nomq_preview_master_new-b-master.css" crc="3957593667" ref="index:about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
   </folder>
@@ -16,7 +16,7 @@
     <file name="museconfig.js" crc="380897831" ref="index:about"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:about"/>
     <file name="require.js" crc="4157109226" ref="index:about"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index"/>
     <file name="webpro.js" crc="242022427" ref="index:about"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="index:about"/>
@@ -28,26 +28,28 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="new-b-master-favicon.ico" crc="4253806463" ref="about"/>
-    <file name="u1010.png" crc="281532576" ref="index:about"/>
-    <file name="u1010-r.png" crc="168290431" ref="index:about"/>
-    <file name="u1013.png" crc="77717122" ref="index:about"/>
-    <file name="u1013-r.png" crc="47813308" ref="index:about"/>
-    <file name="u1016.png" crc="3899590767" ref="index:about"/>
-    <file name="u1016-r.png" crc="4180177648" ref="index:about"/>
-    <file name="jack_desmond_headshot.jpg" crc="4265934577" ref="about">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="hamburger_white.png" crc="4116752656" ref="about">
+    <file name="u1010.png" crc="4288478746" ref="index:about"/>
+    <file name="u1010-r.png" crc="432574939" ref="index:about"/>
+    <file name="u1013.png" crc="3837732864" ref="index:about"/>
+    <file name="u1013-r.png" crc="4069856843" ref="index:about"/>
+    <file name="u1016.png" crc="523851178" ref="index:about"/>
+    <file name="u1016-r.png" crc="380022146" ref="index:about"/>
+    <file name="hamburger_white.png" crc="4116752656" ref="about:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="x-mark_white.png" crc="3804585791" ref="about">
+    <file name="x-mark_white.png" crc="3804585791" ref="about:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
+    <file name="jack_desmond_on_set_looking_for.jpg" crc="3779333320" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="jack_desmond_on_set_looking_for-u1793-fr.jpg" crc="355087340" ref="about"/>
+    <file name="jack_desmond_on_set_looking_for-u1793-fr2.jpg" crc="4111686956" ref="about"/>
   </folder>
-  <file name="index.html" crc="3913499079" seo="true" mt="1574700737755" redirect="true"/>
-  <file name="about.html" crc="4032102759" seo="true" mt="1574700737755" redirect="true"/>
+  <file name="index.html" crc="3908125812" seo="true" mt="1574702125454" redirect="true"/>
+  <file name="about.html" crc="3951458967" seo="true" mt="1574702640863" redirect="true"/>
 </manifest>
