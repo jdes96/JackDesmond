@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574775296910">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574776380132">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_new-design-other.css" crc="396413793" ref="about:showreel:films"/>
-    <file name="nomq_preview_master_new-design-other.css" crc="3761485336" ref="about:showreel:films"/>
-    <file name="index.css" crc="4158343421" ref="index"/>
-    <file name="nomq_index.css" crc="4210056930" ref="index"/>
-    <file name="about.css" crc="4077971203" ref="about"/>
-    <file name="nomq_about.css" crc="4027513470" ref="about"/>
+    <file name="master_new-design-other.css" crc="143829825" ref="about:showreel:films"/>
+    <file name="nomq_preview_master_new-design-other.css" crc="3809257949" ref="about:showreel:films"/>
+    <file name="index.css" crc="259954422" ref="index"/>
+    <file name="nomq_index.css" crc="83916991" ref="index"/>
+    <file name="about.css" crc="3949516060" ref="about"/>
+    <file name="nomq_about.css" crc="493410316" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="showreel.css" crc="98088660" ref="showreel"/>
-    <file name="nomq_showreel.css" crc="4291619050" ref="showreel"/>
+    <file name="showreel.css" crc="3925726789" ref="showreel"/>
+    <file name="nomq_showreel.css" crc="443027627" ref="showreel"/>
     <file name="master_new-design-home.css" crc="244441395" ref="index"/>
     <file name="nomq_preview_master_new-design-home.css" crc="453381525" ref="index"/>
-    <file name="films.css" crc="76688509" ref="films"/>
-    <file name="nomq_films.css" crc="3947292013" ref="films"/>
+    <file name="films.css" crc="4235839836" ref="films"/>
+    <file name="nomq_films.css" crc="3920616560" ref="films"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:index:showreel:films"/>
@@ -156,7 +156,7 @@
     <file name="alone_web_still-crop-u3859.jpg" crc="3972342451" seo="true" ref="films">
       <caption webpage="films" alt=""/>
     </file>
-    <file name="looking_for_web_still-crop-u34572.jpg" crc="3852377486" seo="true" ref="films">
+    <file name="looking_for_web_still-crop-u34572.jpg" crc="472183120" seo="true" ref="films">
       <caption webpage="films" alt=""/>
     </file>
     <file name="alone_web_still-crop-u38592.jpg" crc="344668288" seo="true" ref="films">
@@ -175,8 +175,8 @@
       <caption webpage="films" alt=""/>
     </file>
   </folder>
-  <file name="about.html" crc="4250632759" seo="true" mt="1574775258774" redirect="true"/>
-  <file name="index.html" crc="4109535177" seo="true" mt="1574774960984" redirect="true"/>
-  <file name="showreel.html" crc="179081549" seo="true" mt="1574775258774" redirect="true"/>
-  <file name="films.html" crc="4196188833" seo="true" mt="1574775258774" redirect="true"/>
+  <file name="about.html" crc="233456077" seo="true" mt="1574776353306" redirect="true"/>
+  <file name="index.html" crc="342242034" seo="true" mt="1574776109701" redirect="true"/>
+  <file name="showreel.html" crc="293357875" seo="true" mt="1574776353306" redirect="true"/>
+  <file name="films.html" crc="3887100951" seo="true" mt="1574776353306" redirect="true"/>
 </manifest>
