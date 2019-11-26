@@ -1,36 +1,39 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574714772897">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574775296910">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_new-design-other.css" crc="143535235" ref="about:showreel"/>
-    <file name="nomq_preview_master_new-design-other.css" crc="323035965" ref="about:showreel"/>
-    <file name="master_new-design.css" crc="4108879869" ref="index"/>
-    <file name="nomq_preview_master_new-design.css" crc="3962794393" ref="index"/>
-    <file name="index.css" crc="3822462755" ref="index"/>
-    <file name="nomq_index.css" crc="139504637" ref="index"/>
-    <file name="about.css" crc="3904673209" ref="about"/>
-    <file name="nomq_about.css" crc="3798120116" ref="about"/>
+    <file name="master_new-design-other.css" crc="396413793" ref="about:showreel:films"/>
+    <file name="nomq_preview_master_new-design-other.css" crc="3761485336" ref="about:showreel:films"/>
+    <file name="index.css" crc="4158343421" ref="index"/>
+    <file name="nomq_index.css" crc="4210056930" ref="index"/>
+    <file name="about.css" crc="4077971203" ref="about"/>
+    <file name="nomq_about.css" crc="4027513470" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="showreel.css" crc="4131905329" ref="showreel"/>
-    <file name="nomq_showreel.css" crc="4089917056" ref="showreel"/>
+    <file name="showreel.css" crc="98088660" ref="showreel"/>
+    <file name="nomq_showreel.css" crc="4291619050" ref="showreel"/>
+    <file name="master_new-design-home.css" crc="244441395" ref="index"/>
+    <file name="nomq_preview_master_new-design-home.css" crc="453381525" ref="index"/>
+    <file name="films.css" crc="76688509" ref="films"/>
+    <file name="nomq_films.css" crc="3947292013" ref="films"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:index:showreel"/>
-    <file name="museutils.js" crc="3803043152" ref="about:index:showreel"/>
-    <file name="whatinput.js" crc="86476730" ref="about:index:showreel"/>
-    <file name="museconfig.js" crc="380897831" ref="about:index:showreel"/>
-    <file name="jquery.watch.js" crc="99325471" ref="about:index:showreel"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index:showreel"/>
-    <file name="webpro.js" crc="242022427" ref="about:index:showreel"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="about:index:showreel"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index:showreel"/>
-    <file name="require.js" crc="4157109226" ref="about:index:showreel"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:index:showreel:films"/>
+    <file name="museutils.js" crc="3803043152" ref="about:index:showreel:films"/>
+    <file name="whatinput.js" crc="86476730" ref="about:index:showreel:films"/>
+    <file name="museconfig.js" crc="380897831" ref="about:index:showreel:films"/>
+    <file name="jquery.watch.js" crc="99325471" ref="about:index:showreel:films"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index:showreel:films"/>
+    <file name="webpro.js" crc="242022427" ref="about:index:showreel:films"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="about:index:showreel:films"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index:showreel:films"/>
+    <file name="require.js" crc="4157109226" ref="about:index:showreel:films"/>
   </folder>
   <folder name="images">
     <file name="new-design-other-favicon.ico" crc="4253806463" ref="about"/>
-    <file name="blank.gif" crc="4208392903" ref="about:index:showreel"/>
+    <file name="blank.gif" crc="4208392903" ref="about:index:showreel:films"/>
     <file name="1_img00015.jpg" crc="527408166" ref="about:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -40,41 +43,34 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="u2989.png" crc="4288478746" ref="about:showreel"/>
-    <file name="u2989-r.png" crc="432574939" ref="about:showreel"/>
-    <file name="u2991.png" crc="3837732864" ref="about:showreel"/>
-    <file name="u2991-r.png" crc="4069856843" ref="about:showreel"/>
-    <file name="u2993.png" crc="523851178" ref="about:showreel"/>
-    <file name="u2993-r.png" crc="380022146" ref="about:showreel"/>
     <file name="jack_desmond_on_set_looking_for-u1793-fr.jpg" crc="355087340" ref="about"/>
-    <file name="hamburger_yellow.png" crc="3825879452" ref="about:index">
+    <file name="hamburger_yellow.png" crc="3825879452" ref="about:index:films">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="x-mark_yellow.png" crc="3987643854" ref="about:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="jack_desmond_on_set_looking_for-u1793-fr2.jpg" crc="4111686956" ref="about"/>
-    <file name="new-design-favicon.ico" crc="4253806463" ref="index"/>
-    <file name="u2608.png" crc="4288478746" ref="index"/>
-    <file name="u2608-r.png" crc="432574939" ref="index"/>
-    <file name="u2616.png" crc="3837732864" ref="index"/>
-    <file name="u2616-r.png" crc="4069856843" ref="index"/>
-    <file name="u2613.png" crc="523851178" ref="index"/>
-    <file name="u2613-r.png" crc="380022146" ref="index"/>
+    <file name="x-mark_yellow.png" crc="3987643854" ref="about:index:films">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="jack_desmond_on_set_looking_for-u1793-fr2.jpg" crc="202787168" ref="about"/>
     <file name="hamburger_white.png" crc="4116752656" ref="showreel">
       <caption webpage="showreel" alt=""/>
       <caption webpage="showreel" alt=""/>
@@ -83,8 +79,104 @@
       <caption webpage="showreel" alt=""/>
       <caption webpage="showreel" alt=""/>
     </file>
+    <file name="icons8-instagram-50.png" crc="469895057" seo="true" ref="about:index:showreel:films">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="icons8-linkedin-50.png" crc="232328558" seo="true" ref="about:index:showreel:films">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="icons8-twitter-squared-50.png" crc="4264020858" seo="true" ref="about:index:showreel:films">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="jack_desmond_on_set_looking_for-u1793-fr3.jpg" crc="461972970" ref="about"/>
+    <file name="new-design-home-favicon.ico" crc="4253806463" ref="index"/>
+    <file name="looking_for_web_still400x169.jpg" crc="182893838" seo="true" ref="films">
+      <caption webpage="films" alt=""/>
+    </file>
+    <file name="alone_web_still400x171.jpg" crc="14332624" seo="true" ref="films">
+      <caption webpage="films" alt=""/>
+    </file>
+    <file name="looking_for_web_still-crop-u3457.jpg" crc="472183120" seo="true" ref="films">
+      <caption webpage="films" alt=""/>
+    </file>
+    <file name="alone_web_still-crop-u3859.jpg" crc="3972342451" seo="true" ref="films">
+      <caption webpage="films" alt=""/>
+    </file>
+    <file name="looking_for_web_still-crop-u34572.jpg" crc="3852377486" seo="true" ref="films">
+      <caption webpage="films" alt=""/>
+    </file>
+    <file name="alone_web_still-crop-u38592.jpg" crc="344668288" seo="true" ref="films">
+      <caption webpage="films" alt=""/>
+    </file>
+    <file name="looking_for_web_still-crop-u34573.jpg" crc="4240497200" seo="true" ref="films">
+      <caption webpage="films" alt=""/>
+    </file>
+    <file name="alone_web_still-crop-u38593.jpg" crc="3832273948" seo="true" ref="films">
+      <caption webpage="films" alt=""/>
+    </file>
+    <file name="looking_for_web_still-crop-u34574.jpg" crc="158728724" seo="true" ref="films">
+      <caption webpage="films" alt=""/>
+    </file>
+    <file name="alone_web_still-crop-u38594.jpg" crc="4127248005" seo="true" ref="films">
+      <caption webpage="films" alt=""/>
+    </file>
   </folder>
-  <file name="about.html" crc="3904085574" seo="true" mt="1574714767680" redirect="true"/>
-  <file name="index.html" crc="336473587" seo="true" mt="1574714767677" redirect="true"/>
-  <file name="showreel.html" crc="216962646" seo="true" mt="1574714693871" redirect="true"/>
+  <file name="about.html" crc="4250632759" seo="true" mt="1574775258774" redirect="true"/>
+  <file name="index.html" crc="4109535177" seo="true" mt="1574774960984" redirect="true"/>
+  <file name="showreel.html" crc="179081549" seo="true" mt="1574775258774" redirect="true"/>
+  <file name="films.html" crc="4196188833" seo="true" mt="1574775258774" redirect="true"/>
 </manifest>
