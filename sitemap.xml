@@ -2,37 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jdes96.github.io/JackDesmond/index.html</loc>
-    <lastmod>2019-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://jdes96.github.io/JackDesmond/images/icons8-instagram-50.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://jdes96.github.io/JackDesmond/images/icons8-linkedin-50.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://jdes96.github.io/JackDesmond/images/icons8-twitter-squared-50.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jdes96.github.io/JackDesmond/showreel.html</loc>
-    <lastmod>2019-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://jdes96.github.io/JackDesmond/images/icons8-instagram-50.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://jdes96.github.io/JackDesmond/images/icons8-linkedin-50.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://jdes96.github.io/JackDesmond/images/icons8-twitter-squared-50.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jdes96.github.io/JackDesmond/about.html</loc>
-    <lastmod>2019-11-26</lastmod>
+    <lastmod>2019-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -47,7 +17,61 @@
   </url>
   <url>
     <loc>https://jdes96.github.io/JackDesmond/films.html</loc>
-    <lastmod>2019-11-26</lastmod>
+    <lastmod>2019-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/icons8-instagram-50.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/icons8-linkedin-50.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/icons8-twitter-squared-50.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/speak_to_her_web_still_01-crop-u5094.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/alone_web_still_02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/speak_to_her_web_still_01-crop-u50942.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/speak_to_her_web_still_01-crop-u50943.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/speak_to_her_web_still_01-crop-u5307.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/alone_web_still_02-crop-u5331.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/alone_web_still_02-crop-u53312.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/speak_to_her_web_still_01-crop-u53072.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jdes96.github.io/JackDesmond/about.html</loc>
+    <lastmod>2019-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/icons8-instagram-50.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/icons8-linkedin-50.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/icons8-twitter-squared-50.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jdes96.github.io/JackDesmond/cinematography.html</loc>
+    <lastmod>2019-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -88,6 +112,33 @@
     </image:image>
     <image:image>
       <image:loc>https://jdes96.github.io/JackDesmond/images/alone_web_still-crop-u38594.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/the_quiet_web_still400x225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/alchemist_web_still300x225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/the_quiet_web_still.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/alchemist_web_still-crop-u4749.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/alchemist_web_still-crop-u47492.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/the_quiet_web_still360x203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/alchemist_web_still-crop-u47493.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/the_quiet_web_still288x163.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://jdes96.github.io/JackDesmond/images/alchemist_web_still-crop-u47494.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
