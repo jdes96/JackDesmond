@@ -1,39 +1,41 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574876694127">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574881820356">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_new-design-other.css" crc="4264629914" ref="about:films:cinematography"/>
-    <file name="nomq_preview_master_new-design-other.css" crc="58749834" ref="about:films:cinematography"/>
-    <file name="index.css" crc="4016792450" ref="index"/>
-    <file name="nomq_index.css" crc="393394930" ref="index"/>
+    <file name="master_new-design-other.css" crc="4264629914" ref="about:films:cinematography:directing"/>
+    <file name="nomq_preview_master_new-design-other.css" crc="58749834" ref="about:films:cinematography:directing"/>
+    <file name="index.css" crc="4153245628" ref="index"/>
+    <file name="nomq_index.css" crc="4214479093" ref="index"/>
     <file name="about.css" crc="4272985895" ref="about"/>
     <file name="nomq_about.css" crc="422617544" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="master_new-design-home.css" crc="55061259" ref="index"/>
-    <file name="nomq_preview_master_new-design-home.css" crc="102484463" ref="index"/>
-    <file name="films.css" crc="3773329953" ref="films"/>
+    <file name="master_new-design-home.css" crc="58400716" ref="index"/>
+    <file name="nomq_preview_master_new-design-home.css" crc="3978776595" ref="index"/>
+    <file name="films.css" crc="4206940592" ref="films"/>
     <file name="nomq_films.css" crc="135180157" ref="films"/>
-    <file name="cinematography.css" crc="3881412355" ref="cinematography"/>
-    <file name="nomq_cinematography.css" crc="162830156" ref="cinematography"/>
+    <file name="cinematography.css" crc="4162951070" ref="cinematography"/>
+    <file name="nomq_cinematography.css" crc="415381141" ref="cinematography"/>
     <file name="iefonts_films.css" crc="3824530138" ref="films"/>
+    <file name="directing.css" crc="4026291441" ref="directing"/>
+    <file name="nomq_directing.css" crc="4157247767" ref="directing"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:index:films:cinematography"/>
-    <file name="museutils.js" crc="3803043152" ref="about:index:films:cinematography"/>
-    <file name="whatinput.js" crc="86476730" ref="about:index:films:cinematography"/>
-    <file name="museconfig.js" crc="380897831" ref="about:index:films:cinematography"/>
-    <file name="jquery.watch.js" crc="99325471" ref="about:index:films:cinematography"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index:films:cinematography"/>
-    <file name="webpro.js" crc="242022427" ref="about:index:films:cinematography"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="about:index:films:cinematography"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index:films:cinematography"/>
-    <file name="require.js" crc="4157109226" ref="about:index:films:cinematography"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:index:films:cinematography:directing"/>
+    <file name="museutils.js" crc="3803043152" ref="about:index:films:cinematography:directing"/>
+    <file name="whatinput.js" crc="86476730" ref="about:index:films:cinematography:directing"/>
+    <file name="museconfig.js" crc="380897831" ref="about:index:films:cinematography:directing"/>
+    <file name="jquery.watch.js" crc="99325471" ref="about:index:films:cinematography:directing"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index:films:cinematography:directing"/>
+    <file name="webpro.js" crc="242022427" ref="about:index:films:cinematography:directing"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="about:index:films:cinematography:directing"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index:films:cinematography:directing"/>
+    <file name="require.js" crc="4157109226" ref="about:index:films:cinematography:directing"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
     <file name="new-design-other-favicon.ico" crc="4253806463" ref="about"/>
-    <file name="blank.gif" crc="4208392903" ref="about:index:films:cinematography"/>
+    <file name="blank.gif" crc="4208392903" ref="about:index:films:cinematography:directing"/>
     <file name="1_img00015.jpg" crc="527408166" ref="about:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -50,7 +52,7 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="jack_desmond_on_set_looking_for-u1793-fr.jpg" crc="355087340" ref="about"/>
-    <file name="hamburger_yellow.png" crc="3825879452" ref="about:index:films:cinematography">
+    <file name="hamburger_yellow.png" crc="3825879452" ref="about:index:films:cinematography:directing">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -58,6 +60,10 @@
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
@@ -67,7 +73,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="x-mark_yellow.png" crc="3987643854" ref="about:index:films:cinematography">
+    <file name="x-mark_yellow.png" crc="3987643854" ref="about:index:films:cinematography:directing">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -75,6 +81,10 @@
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
@@ -85,7 +95,7 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="jack_desmond_on_set_looking_for-u1793-fr2.jpg" crc="202787168" ref="about"/>
-    <file name="icons8-instagram-50.png" crc="469895057" seo="true" ref="about:index:films:cinematography">
+    <file name="icons8-instagram-50.png" crc="469895057" seo="true" ref="about:index:films:cinematography:directing">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -100,6 +110,11 @@
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
@@ -111,7 +126,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="icons8-linkedin-50.png" crc="232328558" seo="true" ref="about:index:films:cinematography">
+    <file name="icons8-linkedin-50.png" crc="232328558" seo="true" ref="about:index:films:cinematography:directing">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -126,6 +141,11 @@
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
@@ -137,7 +157,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="icons8-twitter-squared-50.png" crc="4264020858" seo="true" ref="about:index:films:cinematography">
+    <file name="icons8-twitter-squared-50.png" crc="4264020858" seo="true" ref="about:index:films:cinematography:directing">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -152,6 +172,11 @@
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
@@ -197,11 +222,11 @@
       <caption webpage="cinematography" alt=""/>
       <caption webpage="films" alt=""/>
     </file>
-    <file name="looking_for_web_still-crop-u34574.jpg" crc="206632489" seo="true" ref="cinematography">
+    <file name="looking_for_web_still-crop-u34574.jpg" crc="4240497200" seo="true" ref="cinematography">
       <caption webpage="cinematography" alt=""/>
       <caption webpage="films" alt=""/>
     </file>
-    <file name="alone_web_still-crop-u38594.jpg" crc="3836712854" seo="true" ref="cinematography">
+    <file name="alone_web_still-crop-u38594.jpg" crc="3832273948" seo="true" ref="cinematography">
       <caption webpage="cinematography" alt=""/>
       <caption webpage="films" alt=""/>
     </file>
@@ -224,14 +249,12 @@
     </file>
     <file name="the_quiet_web_still360x203.jpg" crc="4001893331" seo="true" ref="cinematography">
       <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
     </file>
     <file name="alchemist_web_still-crop-u47493.jpg" crc="324073477" seo="true" ref="cinematography">
       <caption webpage="cinematography" alt=""/>
     </file>
-    <file name="the_quiet_web_still288x163.jpg" crc="3863345673" seo="true" ref="cinematography">
-      <caption webpage="cinematography" alt=""/>
-    </file>
-    <file name="alchemist_web_still-crop-u47494.jpg" crc="292514003" seo="true" ref="cinematography">
+    <file name="alchemist_web_still-crop-u47494.jpg" crc="324073477" seo="true" ref="cinematography">
       <caption webpage="cinematography" alt=""/>
     </file>
     <file name="speak_to_her_web_still_01-crop-u5094.jpg" crc="3890576895" seo="true" ref="films">
@@ -248,21 +271,59 @@
     <file name="speak_to_her_web_still_01-crop-u50943.jpg" crc="4264494020" seo="true" ref="films">
       <caption webpage="films" alt=""/>
     </file>
-    <file name="speak_to_her_web_still_01-crop-u5307.jpg" crc="3826740551" seo="true" ref="films">
+    <file name="speak_to_her_web_still_01-crop-u5307.jpg" crc="431633976" seo="true" ref="films">
       <caption webpage="films" alt=""/>
     </file>
-    <file name="alone_web_still_02-crop-u5331.jpg" crc="3920521715" seo="true" ref="films">
+    <file name="alone_web_still_02-crop-u5331.jpg" crc="3941098414" seo="true" ref="films">
       <caption webpage="films" alt=""/>
     </file>
-    <file name="alone_web_still_02-crop-u53312.jpg" crc="4284678207" seo="true" ref="films">
+    <file name="alone_web_still_02-crop-u53312.jpg" crc="3941098414" seo="true" ref="films">
       <caption webpage="films" alt=""/>
     </file>
-    <file name="speak_to_her_web_still_01-crop-u53072.jpg" crc="322866231" seo="true" ref="films">
+    <file name="speak_to_her_web_still_01-crop-u53072.jpg" crc="431633976" seo="true" ref="films">
       <caption webpage="films" alt=""/>
+    </file>
+    <file name="speak_to_her_web_still_02400x225.jpg" crc="75883049" seo="true" ref="directing">
+      <caption webpage="directing" alt=""/>
+    </file>
+    <file name="alone_web_still_03400x171.jpg" crc="4271197003" seo="true" ref="directing">
+      <caption webpage="directing" alt=""/>
+    </file>
+    <file name="grandad_web_02400x225.jpg" crc="448078681" seo="true" ref="directing">
+      <caption webpage="directing" alt=""/>
+    </file>
+    <file name="speak_to_her_web_still_02.jpg" crc="3897226448" seo="true" ref="directing">
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+    </file>
+    <file name="alone_web_still_03-crop-u5601.jpg" crc="4291072006" seo="true" ref="directing">
+      <caption webpage="directing" alt=""/>
+    </file>
+    <file name="grandad_web_02.jpg" crc="3787986366" seo="true" ref="directing">
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+    </file>
+    <file name="alone_web_still_03-crop-u56012.jpg" crc="24966774" seo="true" ref="directing">
+      <caption webpage="directing" alt=""/>
+    </file>
+    <file name="speak_to_her_web_still_02361x203.jpg" crc="3852479433" seo="true" ref="directing">
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+    </file>
+    <file name="alone_web_still_03-crop-u56013.jpg" crc="177321170" seo="true" ref="directing">
+      <caption webpage="directing" alt=""/>
+    </file>
+    <file name="grandad_web_02360x203.jpg" crc="390786742" seo="true" ref="directing">
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+    </file>
+    <file name="alone_web_still_03-crop-u56014.jpg" crc="177321170" seo="true" ref="directing">
+      <caption webpage="directing" alt=""/>
     </file>
   </folder>
-  <file name="about.html" crc="506293584" seo="true" mt="1574874531048" redirect="true"/>
-  <file name="index.html" crc="50080081" seo="true" mt="1574874514513" redirect="true"/>
-  <file name="films.html" crc="4081770202" seo="true" mt="1574875711194" redirect="true"/>
-  <file name="cinematography.html" crc="3838442371" seo="true" mt="1574876658007" redirect="true"/>
+  <file name="about.html" crc="506293584" seo="true" mt="1574881272281" redirect="true"/>
+  <file name="index.html" crc="159819035" seo="true" mt="1574881789207" redirect="true"/>
+  <file name="films.html" crc="246552315" seo="true" mt="1574881272281" redirect="true"/>
+  <file name="cinematography.html" crc="3953415476" seo="true" mt="1574881272281" redirect="true"/>
+  <file name="directing.html" crc="276205421" seo="true" mt="1574881272281" redirect="true"/>
 </manifest>
