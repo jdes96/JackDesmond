@@ -1,41 +1,46 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574881820356">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574967121157">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_new-design-other.css" crc="4264629914" ref="about:films:cinematography:directing"/>
-    <file name="nomq_preview_master_new-design-other.css" crc="58749834" ref="about:films:cinematography:directing"/>
-    <file name="index.css" crc="4153245628" ref="index"/>
-    <file name="nomq_index.css" crc="4214479093" ref="index"/>
-    <file name="about.css" crc="4272985895" ref="about"/>
-    <file name="nomq_about.css" crc="422617544" ref="about"/>
-    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
-    <file name="master_new-design-home.css" crc="58400716" ref="index"/>
-    <file name="nomq_preview_master_new-design-home.css" crc="3978776595" ref="index"/>
-    <file name="films.css" crc="4206940592" ref="films"/>
-    <file name="nomq_films.css" crc="135180157" ref="films"/>
-    <file name="cinematography.css" crc="4162951070" ref="cinematography"/>
-    <file name="nomq_cinematography.css" crc="415381141" ref="cinematography"/>
-    <file name="iefonts_films.css" crc="3824530138" ref="films"/>
-    <file name="directing.css" crc="4026291441" ref="directing"/>
-    <file name="nomq_directing.css" crc="4157247767" ref="directing"/>
+    <file name="site_global.css" crc="3983213443"/>
+    <file name="index.css" crc="4084057580" ref="index"/>
+    <file name="nomq_index.css" crc="4161582203" ref="index"/>
+    <file name="about.css" crc="4074032261" ref="about"/>
+    <file name="nomq_about.css" crc="297435139" ref="about"/>
+    <file name="iefonts_about.css" crc="3983764078" ref="about"/>
+    <file name="master_new-design-home.css" crc="163692959" ref="index"/>
+    <file name="nomq_preview_master_new-design-home.css" crc="279030225" ref="index"/>
+    <file name="films.css" crc="360360502" ref="films"/>
+    <file name="nomq_films.css" crc="105705310" ref="films"/>
+    <file name="cinematography.css" crc="119196809" ref="cinematography"/>
+    <file name="nomq_cinematography.css" crc="156743654" ref="cinematography"/>
+    <file name="iefonts_films.css" crc="3983764078" ref="films"/>
+    <file name="directing.css" crc="165290103" ref="directing"/>
+    <file name="nomq_directing.css" crc="431792819" ref="directing"/>
+    <file name="master_new-design-other-menu.css" crc="3928179551" ref="directing:videography:cinematography:electric-picnic:about:films:photography"/>
+    <file name="nomq_preview_master_new-design-other-menu.css" crc="196000209" ref="directing:videography:cinematography:electric-picnic:about:films:photography"/>
+    <file name="videography.css" crc="479936212" ref="videography"/>
+    <file name="nomq_videography.css" crc="367768493" ref="videography"/>
+    <file name="electric-picnic.css" crc="180658935" ref="electric-picnic"/>
+    <file name="nomq_electric-picnic.css" crc="4158934138" ref="electric-picnic"/>
+    <file name="photography.css" crc="62956696" ref="photography"/>
+    <file name="nomq_photography.css" crc="220031364" ref="photography"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:index:films:cinematography:directing"/>
-    <file name="museutils.js" crc="3803043152" ref="about:index:films:cinematography:directing"/>
-    <file name="whatinput.js" crc="86476730" ref="about:index:films:cinematography:directing"/>
-    <file name="museconfig.js" crc="380897831" ref="about:index:films:cinematography:directing"/>
-    <file name="jquery.watch.js" crc="99325471" ref="about:index:films:cinematography:directing"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index:films:cinematography:directing"/>
-    <file name="webpro.js" crc="242022427" ref="about:index:films:cinematography:directing"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="about:index:films:cinematography:directing"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index:films:cinematography:directing"/>
-    <file name="require.js" crc="4157109226" ref="about:index:films:cinematography:directing"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic"/>
+    <file name="museutils.js" crc="3803043152" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic"/>
+    <file name="whatinput.js" crc="86476730" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic"/>
+    <file name="museconfig.js" crc="380897831" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic"/>
+    <file name="jquery.watch.js" crc="99325471" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index"/>
+    <file name="webpro.js" crc="242022427" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic"/>
+    <file name="require.js" crc="4157109226" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="new-design-other-favicon.ico" crc="4253806463" ref="about"/>
-    <file name="blank.gif" crc="4208392903" ref="about:index:films:cinematography:directing"/>
+    <file name="blank.gif" crc="4208392903" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic"/>
     <file name="1_img00015.jpg" crc="527408166" ref="about:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -52,7 +57,7 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="jack_desmond_on_set_looking_for-u1793-fr.jpg" crc="355087340" ref="about"/>
-    <file name="hamburger_yellow.png" crc="3825879452" ref="about:index:films:cinematography:directing">
+    <file name="hamburger_yellow.png" crc="3825879452" ref="about:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -60,20 +65,20 @@
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="x-mark_yellow.png" crc="3987643854" ref="about:index:films:cinematography:directing">
+    <file name="x-mark_yellow.png" crc="3987643854" ref="about:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -81,107 +86,152 @@
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
     <file name="jack_desmond_on_set_looking_for-u1793-fr2.jpg" crc="202787168" ref="about"/>
-    <file name="icons8-instagram-50.png" crc="469895057" seo="true" ref="about:index:films:cinematography:directing">
+    <file name="icons8-instagram-50.png" crc="469895057" seo="true" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic">
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="icons8-linkedin-50.png" crc="232328558" seo="true" ref="about:index:films:cinematography:directing">
+    <file name="icons8-linkedin-50.png" crc="232328558" seo="true" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic">
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="icons8-twitter-squared-50.png" crc="4264020858" seo="true" ref="about:index:films:cinematography:directing">
+    <file name="icons8-twitter-squared-50.png" crc="4264020858" seo="true" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic">
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -191,44 +241,44 @@
     <file name="jack_desmond_on_set_looking_for-u1793-fr3.jpg" crc="461972970" ref="about"/>
     <file name="new-design-home-favicon.ico" crc="4253806463" ref="index"/>
     <file name="looking_for_web_still400x169.jpg" crc="182893838" seo="true" ref="cinematography">
-      <caption webpage="cinematography" alt=""/>
       <caption webpage="films" alt=""/>
+      <caption webpage="cinematography" alt=""/>
     </file>
     <file name="alone_web_still400x171.jpg" crc="14332624" seo="true" ref="cinematography">
-      <caption webpage="cinematography" alt=""/>
       <caption webpage="films" alt=""/>
+      <caption webpage="cinematography" alt=""/>
     </file>
-    <file name="looking_for_web_still-crop-u3457.jpg" crc="472183120" seo="true" ref="cinematography">
-      <caption webpage="cinematography" alt=""/>
+    <file name="looking_for_web_still-crop-u3457.jpg" crc="294584472" seo="true" ref="cinematography">
       <caption webpage="films" alt=""/>
+      <caption webpage="cinematography" alt=""/>
     </file>
-    <file name="alone_web_still-crop-u3859.jpg" crc="458179299" seo="true" ref="cinematography">
-      <caption webpage="cinematography" alt=""/>
+    <file name="alone_web_still-crop-u3859.jpg" crc="4082478155" seo="true" ref="cinematography">
       <caption webpage="films" alt=""/>
+      <caption webpage="cinematography" alt=""/>
     </file>
-    <file name="looking_for_web_still-crop-u34572.jpg" crc="472183120" seo="true" ref="cinematography">
-      <caption webpage="cinematography" alt=""/>
+    <file name="looking_for_web_still-crop-u34572.jpg" crc="294584472" seo="true" ref="cinematography">
       <caption webpage="films" alt=""/>
+      <caption webpage="cinematography" alt=""/>
     </file>
-    <file name="alone_web_still-crop-u38592.jpg" crc="4172373640" seo="true" ref="cinematography">
-      <caption webpage="cinematography" alt=""/>
+    <file name="alone_web_still-crop-u38592.jpg" crc="38838977" seo="true" ref="cinematography">
       <caption webpage="films" alt=""/>
+      <caption webpage="cinematography" alt=""/>
     </file>
-    <file name="looking_for_web_still-crop-u34573.jpg" crc="4240497200" seo="true" ref="cinematography">
-      <caption webpage="cinematography" alt=""/>
+    <file name="looking_for_web_still-crop-u34573.jpg" crc="205547997" seo="true" ref="cinematography">
       <caption webpage="films" alt=""/>
+      <caption webpage="cinematography" alt=""/>
     </file>
-    <file name="alone_web_still-crop-u38593.jpg" crc="3832273948" seo="true" ref="cinematography">
-      <caption webpage="cinematography" alt=""/>
+    <file name="alone_web_still-crop-u38593.jpg" crc="4281600169" seo="true" ref="cinematography">
       <caption webpage="films" alt=""/>
+      <caption webpage="cinematography" alt=""/>
     </file>
-    <file name="looking_for_web_still-crop-u34574.jpg" crc="4240497200" seo="true" ref="cinematography">
-      <caption webpage="cinematography" alt=""/>
+    <file name="looking_for_web_still-crop-u34574.jpg" crc="205547997" seo="true" ref="cinematography">
       <caption webpage="films" alt=""/>
+      <caption webpage="cinematography" alt=""/>
     </file>
-    <file name="alone_web_still-crop-u38594.jpg" crc="3832273948" seo="true" ref="cinematography">
-      <caption webpage="cinematography" alt=""/>
+    <file name="alone_web_still-crop-u38594.jpg" crc="4281600169" seo="true" ref="cinematography">
       <caption webpage="films" alt=""/>
+      <caption webpage="cinematography" alt=""/>
     </file>
     <file name="1_img00015-u2610-r-fr.png" crc="3866490810" ref="index"/>
     <file name="the_quiet_web_still400x225.jpg" crc="4130062969" seo="true" ref="cinematography">
@@ -274,10 +324,10 @@
     <file name="speak_to_her_web_still_01-crop-u5307.jpg" crc="431633976" seo="true" ref="films">
       <caption webpage="films" alt=""/>
     </file>
-    <file name="alone_web_still_02-crop-u5331.jpg" crc="3941098414" seo="true" ref="films">
+    <file name="alone_web_still_02-crop-u5331.jpg" crc="4149067729" seo="true" ref="films">
       <caption webpage="films" alt=""/>
     </file>
-    <file name="alone_web_still_02-crop-u53312.jpg" crc="3941098414" seo="true" ref="films">
+    <file name="alone_web_still_02-crop-u53312.jpg" crc="4149067729" seo="true" ref="films">
       <caption webpage="films" alt=""/>
     </file>
     <file name="speak_to_her_web_still_01-crop-u53072.jpg" crc="431633976" seo="true" ref="films">
@@ -299,9 +349,11 @@
     <file name="alone_web_still_03-crop-u5601.jpg" crc="4291072006" seo="true" ref="directing">
       <caption webpage="directing" alt=""/>
     </file>
-    <file name="grandad_web_02.jpg" crc="3787986366" seo="true" ref="directing">
+    <file name="grandad_web_02.jpg" crc="3787986366" seo="true" ref="directing:photography">
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
     </file>
     <file name="alone_web_still_03-crop-u56012.jpg" crc="24966774" seo="true" ref="directing">
       <caption webpage="directing" alt=""/>
@@ -320,10 +372,127 @@
     <file name="alone_web_still_03-crop-u56014.jpg" crc="177321170" seo="true" ref="directing">
       <caption webpage="directing" alt=""/>
     </file>
+    <file name="new-design-other-menu-favicon.ico" crc="4253806463" ref="about"/>
+    <file name="electric_picnic_web_01400x225.jpg" crc="3782701998" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="electric_picnic_web_01.jpg" crc="420344703" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="alone_web_still_03-crop-u6782.jpg" crc="4291072006" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="alone_web_still_03-crop-u67822.jpg" crc="24966774" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="electric_picnic_web_01361x203.jpg" crc="4225794913" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="alone_web_still_03-crop-u67823.jpg" crc="177321170" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="alone_web_still_03-crop-u67824.jpg" crc="177321170" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="electric_picnic_web_012.jpg" crc="44801788" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_04.jpg" crc="104958830" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_02-crop-u7068.jpg" crc="223271313" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_06.jpg" crc="468054732" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_08.jpg" crc="4198288165" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_03.jpg" crc="409036728" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_01439x247.jpg" crc="245289108" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_04439x247.jpg" crc="3818328096" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_02-crop-u70682.jpg" crc="4122453463" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_06439x247.jpg" crc="3784282114" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_08316x562.jpg" crc="3905916432" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_03317x562.jpg" crc="245408777" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_01355x200.jpg" crc="470999609" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_04356x200.jpg" crc="3794443578" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_02-crop-u70683.jpg" crc="55808224" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_06356x200.jpg" crc="4179616780" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_08256x455.jpg" crc="4020433905" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_03257x456.jpg" crc="3889186795" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_01259x146.jpg" crc="64883542" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_04259x146.jpg" crc="3775217940" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_02-crop-u70684.jpg" crc="23901251" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_06259x146.jpg" crc="407659152" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_08187x331.jpg" crc="177923391" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_03187x332.jpg" crc="467159972" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_01207x117.jpg" crc="314725513" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_04207x117.jpg" crc="3977704898" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_02-crop-u70685.jpg" crc="498586028" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_06207x117.jpg" crc="3853926602" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_08149x265.jpg" crc="4262312481" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
+    <file name="electric_picnic_web_03149x265.jpg" crc="4047547736" seo="true" ref="electric-picnic">
+      <caption webpage="electric-picnic" alt=""/>
+    </file>
   </folder>
-  <file name="about.html" crc="506293584" seo="true" mt="1574881272281" redirect="true"/>
-  <file name="index.html" crc="159819035" seo="true" mt="1574881789207" redirect="true"/>
-  <file name="films.html" crc="246552315" seo="true" mt="1574881272281" redirect="true"/>
-  <file name="cinematography.html" crc="3953415476" seo="true" mt="1574881272281" redirect="true"/>
-  <file name="directing.html" crc="276205421" seo="true" mt="1574881272281" redirect="true"/>
+  <file name="about.html" crc="154520878" seo="true" mt="1574966755013" redirect="true"/>
+  <file name="index.html" crc="4061218365" seo="true" mt="1574966841202" redirect="true"/>
+  <file name="films.html" crc="4027134556" seo="true" mt="1574966755013" redirect="true"/>
+  <file name="cinematography.html" crc="435278096" seo="true" mt="1574966755013" redirect="true"/>
+  <file name="directing.html" crc="291924254" seo="true" mt="1574966755013" redirect="true"/>
+  <file name="videography.html" crc="4004063526" seo="true" mt="1574967074622" redirect="true"/>
+  <file name="photography.html" crc="408356206" seo="true" mt="1574966755013" redirect="true"/>
+  <file name="electric-picnic.html" crc="3927280488" seo="true" mt="1574966755013" redirect="true"/>
 </manifest>
