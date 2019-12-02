@@ -1,30 +1,30 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1575291696775">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://jackdesmond.com" resolutions="1x" timestamp="1575292586994">
   <folder name="css">
     <file name="site_global.css" crc="350202800"/>
     <file name="index.css" crc="4122320159" ref="index"/>
     <file name="nomq_index.css" crc="4282478540" ref="index"/>
-    <file name="about.css" crc="360641807" ref="about"/>
-    <file name="nomq_about.css" crc="4282397529" ref="about"/>
+    <file name="about.css" crc="3964853436" ref="about"/>
+    <file name="nomq_about.css" crc="432243045" ref="about"/>
     <file name="iefonts_about.css" crc="3983764078" ref="about"/>
     <file name="master_new-design-home.css" crc="45530289" ref="index"/>
     <file name="nomq_preview_master_new-design-home.css" crc="200263023" ref="index"/>
-    <file name="films.css" crc="3894620622" ref="films"/>
-    <file name="nomq_films.css" crc="4255148811" ref="films"/>
-    <file name="cinematography.css" crc="531557122" ref="cinematography"/>
-    <file name="nomq_cinematography.css" crc="489451521" ref="cinematography"/>
+    <file name="films.css" crc="452294365" ref="films"/>
+    <file name="nomq_films.css" crc="41808739" ref="films"/>
+    <file name="cinematography.css" crc="4195563900" ref="cinematography"/>
+    <file name="nomq_cinematography.css" crc="460718994" ref="cinematography"/>
     <file name="iefonts_films.css" crc="3983764078" ref="films"/>
-    <file name="directing.css" crc="163513771" ref="directing"/>
-    <file name="nomq_directing.css" crc="237146275" ref="directing"/>
+    <file name="directing.css" crc="4106039162" ref="directing"/>
+    <file name="nomq_directing.css" crc="3838354648" ref="directing"/>
     <file name="master_new-design-other-menu.css" crc="4104186040" ref="directing:videography:cinematography:electric-picnic:about:films:photography:berlin"/>
     <file name="nomq_preview_master_new-design-other-menu.css" crc="3983286817" ref="directing:videography:cinematography:electric-picnic:about:films:photography:berlin"/>
-    <file name="videography.css" crc="4037087803" ref="videography"/>
-    <file name="nomq_videography.css" crc="4181081958" ref="videography"/>
-    <file name="electric-picnic.css" crc="59044824" ref="electric-picnic"/>
-    <file name="nomq_electric-picnic.css" crc="161493304" ref="electric-picnic"/>
-    <file name="photography.css" crc="4143161643" ref="photography"/>
-    <file name="nomq_photography.css" crc="189987173" ref="photography"/>
-    <file name="berlin.css" crc="3825453761" ref="berlin"/>
-    <file name="nomq_berlin.css" crc="3978320378" ref="berlin"/>
+    <file name="videography.css" crc="4257943532" ref="videography"/>
+    <file name="nomq_videography.css" crc="4025248948" ref="videography"/>
+    <file name="electric-picnic.css" crc="4244748866" ref="electric-picnic"/>
+    <file name="nomq_electric-picnic.css" crc="239818472" ref="electric-picnic"/>
+    <file name="photography.css" crc="3874226715" ref="photography"/>
+    <file name="nomq_photography.css" crc="47969236" ref="photography"/>
+    <file name="berlin.css" crc="4035604680" ref="berlin"/>
+    <file name="nomq_berlin.css" crc="4030013406" ref="berlin"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin"/>
@@ -668,13 +668,13 @@
       <caption webpage="berlin" alt=""/>
     </file>
   </folder>
-  <file name="about.html" crc="307872172" seo="true" mt="1575291632792" redirect="true"/>
-  <file name="index.html" crc="4068241810" seo="true" mt="1575290887988" redirect="true"/>
-  <file name="films.html" crc="3798408635" seo="true" mt="1575291632792" redirect="true"/>
-  <file name="cinematography.html" crc="3788849764" seo="true" mt="1575291632792" redirect="true"/>
-  <file name="directing.html" crc="209219738" seo="true" mt="1575291632792" redirect="true"/>
-  <file name="videography.html" crc="216014260" seo="true" mt="1575291632792" redirect="true"/>
-  <file name="photography.html" crc="4219879758" seo="true" mt="1575291632792" redirect="true"/>
-  <file name="electric-picnic.html" crc="344633218" seo="true" mt="1575291632792" redirect="true"/>
-  <file name="berlin.html" crc="4234060125" seo="true" mt="1575291632792" redirect="true"/>
+  <file name="about.html" crc="36031566" seo="true" mt="1575292515651" redirect="true"/>
+  <file name="index.html" crc="4068241810" seo="true" mt="1575292515651" redirect="true"/>
+  <file name="films.html" crc="3849159256" seo="true" mt="1575292515651" redirect="true"/>
+  <file name="cinematography.html" crc="298385302" seo="true" mt="1575292515651" redirect="true"/>
+  <file name="directing.html" crc="11737293" seo="true" mt="1575292515651" redirect="true"/>
+  <file name="videography.html" crc="125497235" seo="true" mt="1575292515651" redirect="true"/>
+  <file name="photography.html" crc="342446979" seo="true" mt="1575292515651" redirect="true"/>
+  <file name="electric-picnic.html" crc="4262300009" seo="true" mt="1575292515651" redirect="true"/>
+  <file name="berlin.html" crc="3998199954" seo="true" mt="1575292515651" redirect="true"/>
 </manifest>
