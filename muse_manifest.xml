@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1574967121157">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jdes96.github.io/JackDesmond" resolutions="1x" timestamp="1575286653858">
   <folder name="css">
     <file name="site_global.css" crc="3983213443"/>
-    <file name="index.css" crc="4084057580" ref="index"/>
-    <file name="nomq_index.css" crc="4161582203" ref="index"/>
+    <file name="index.css" crc="4109714545" ref="index"/>
+    <file name="nomq_index.css" crc="4135628453" ref="index"/>
     <file name="about.css" crc="4074032261" ref="about"/>
     <file name="nomq_about.css" crc="297435139" ref="about"/>
     <file name="iefonts_about.css" crc="3983764078" ref="about"/>
-    <file name="master_new-design-home.css" crc="163692959" ref="index"/>
-    <file name="nomq_preview_master_new-design-home.css" crc="279030225" ref="index"/>
+    <file name="master_new-design-home.css" crc="4284539697" ref="index"/>
+    <file name="nomq_preview_master_new-design-home.css" crc="459157624" ref="index"/>
     <file name="films.css" crc="360360502" ref="films"/>
     <file name="nomq_films.css" crc="105705310" ref="films"/>
     <file name="cinematography.css" crc="119196809" ref="cinematography"/>
@@ -61,182 +61,182 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
     </file>
     <file name="x-mark_yellow.png" crc="3987643854" ref="about:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
     </file>
     <file name="jack_desmond_on_set_looking_for-u1793-fr2.jpg" crc="202787168" ref="about"/>
     <file name="icons8-instagram-50.png" crc="469895057" seo="true" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
     </file>
     <file name="icons8-linkedin-50.png" crc="232328558" seo="true" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
     </file>
     <file name="icons8-twitter-squared-50.png" crc="4264020858" seo="true" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
     </file>
     <file name="jack_desmond_on_set_looking_for-u1793-fr3.jpg" crc="461972970" ref="about"/>
     <file name="new-design-home-favicon.ico" crc="4253806463" ref="index"/>
@@ -488,7 +488,7 @@
     </file>
   </folder>
   <file name="about.html" crc="154520878" seo="true" mt="1574966755013" redirect="true"/>
-  <file name="index.html" crc="4061218365" seo="true" mt="1574966841202" redirect="true"/>
+  <file name="index.html" crc="468118162" seo="true" mt="1575286623820" redirect="true"/>
   <file name="films.html" crc="4027134556" seo="true" mt="1574966755013" redirect="true"/>
   <file name="cinematography.html" crc="435278096" seo="true" mt="1574966755013" redirect="true"/>
   <file name="directing.html" crc="291924254" seo="true" mt="1574966755013" redirect="true"/>
