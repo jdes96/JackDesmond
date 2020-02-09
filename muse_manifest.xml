@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jackdesmond.com" resolutions="1x" timestamp="1576443408416">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jackdesmond.com" resolutions="1x" timestamp="1581259987484">
   <folder name="css">
-    <file name="site_global.css" crc="350202800"/>
-    <file name="index.css" crc="3806960396" ref="index"/>
-    <file name="nomq_index.css" crc="450775758" ref="index"/>
+    <file name="site_global.css" crc="4142734519"/>
+    <file name="index.css" crc="414835727" ref="index"/>
+    <file name="nomq_index.css" crc="3931063289" ref="index"/>
     <file name="about.css" crc="4051718546" ref="about"/>
     <file name="nomq_about.css" crc="3970553840" ref="about"/>
-    <file name="master_new-design-home.css" crc="78350918" ref="index"/>
-    <file name="nomq_preview_master_new-design-home.css" crc="3970490803" ref="index"/>
-    <file name="films.css" crc="4055382003" ref="films"/>
+    <file name="master_new-design-home.css" crc="4199957799" ref="index"/>
+    <file name="nomq_preview_master_new-design-home.css" crc="3764221796" ref="index"/>
+    <file name="films.css" crc="4025528753" ref="films"/>
     <file name="nomq_films.css" crc="430099299" ref="films"/>
-    <file name="cinematography.css" crc="405597905" ref="cinematography"/>
-    <file name="nomq_cinematography.css" crc="460718994" ref="cinematography"/>
+    <file name="cinematography.css" crc="4220274200" ref="cinematography"/>
+    <file name="nomq_cinematography.css" crc="3936494395" ref="cinematography"/>
     <file name="iefonts_films.css" crc="3983764078" ref="films"/>
-    <file name="directing.css" crc="104196328" ref="directing"/>
-    <file name="nomq_directing.css" crc="308210630" ref="directing"/>
-    <file name="master_new-design-other-menu.css" crc="330991230" ref="directing:videography:cinematography:electric-picnic:about:films:photography:west-cork:berlin--35mm-photography--jack-desmond"/>
-    <file name="nomq_preview_master_new-design-other-menu.css" crc="335034859" ref="directing:videography:cinematography:electric-picnic:about:films:photography:west-cork:berlin--35mm-photography--jack-desmond"/>
-    <file name="videography.css" crc="1682737" ref="videography"/>
-    <file name="nomq_videography.css" crc="3970993800" ref="videography"/>
+    <file name="directing.css" crc="405255394" ref="directing"/>
+    <file name="nomq_directing.css" crc="352942237" ref="directing"/>
+    <file name="master_new-design-other-menu.css" crc="271508993" ref="directing:videography:cinematography:electric-picnic:about:films:photography:west-cork:berlin--35mm-photography--jack-desmond:alone-spec-ad:looking-for"/>
+    <file name="nomq_preview_master_new-design-other-menu.css" crc="3917021571" ref="directing:videography:cinematography:electric-picnic:about:films:photography:west-cork:berlin--35mm-photography--jack-desmond:alone-spec-ad:looking-for"/>
+    <file name="videography.css" crc="4191285872" ref="videography"/>
+    <file name="nomq_videography.css" crc="4227363192" ref="videography"/>
     <file name="electric-picnic.css" crc="309499882" ref="electric-picnic"/>
     <file name="nomq_electric-picnic.css" crc="239818472" ref="electric-picnic"/>
     <file name="photography.css" crc="4179168501" ref="photography"/>
@@ -26,38 +26,47 @@
     <file name="nomq_west-cork.css" crc="4185268845" ref="west-cork"/>
     <file name="berlin--35mm-photography--jack-desmond.css" crc="66357347" ref="berlin--35mm-photography--jack-desmond"/>
     <file name="nomq_berlin--35mm-photography--jack-desmond.css" crc="220586676" ref="berlin--35mm-photography--jack-desmond"/>
+    <file name="alone-spec-ad.css" crc="3767421014" ref="alone-spec-ad"/>
+    <file name="nomq_alone-spec-ad.css" crc="211094817" ref="alone-spec-ad"/>
+    <file name="looking-for.css" crc="4065682585" ref="looking-for"/>
+    <file name="nomq_looking-for.css" crc="260112419" ref="looking-for"/>
+    <file name="iefonts_looking-for.css" crc="3983764078" ref="looking-for"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork"/>
-    <file name="museutils.js" crc="3803043152" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork"/>
-    <file name="whatinput.js" crc="86476730" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork"/>
-    <file name="museconfig.js" crc="380897831" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork"/>
-    <file name="jquery.watch.js" crc="99325471" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index"/>
-    <file name="webpro.js" crc="242022427" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork"/>
-    <file name="musewpdisclosure.js" crc="119288625" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork"/>
-    <file name="require.js" crc="4157109226" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad"/>
+    <file name="museutils.js" crc="3803043152" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad"/>
+    <file name="whatinput.js" crc="86476730" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad"/>
+    <file name="museconfig.js" crc="380897831" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad"/>
+    <file name="jquery.watch.js" crc="99325471" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index:cinematography"/>
+    <file name="webpro.js" crc="242022427" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad"/>
+    <file name="require.js" crc="4157109226" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:cinematography"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:cinematography"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:cinematography"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork"/>
-    <file name="1_img00015.jpg" crc="527408166" ref="about:index">
+    <file name="blank.gif" crc="4208392903" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad"/>
+    <file name="1_img00015.jpg" crc="527408166" ref="about:index:cinematography">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="berlin" alt=""/>
       <caption webpage="berlin" alt=""/>
       <caption webpage="berlin" alt=""/>
@@ -69,26 +78,22 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="jack_desmond_on_set_looking_for-u1793-fr.jpg" crc="355087340" ref="about"/>
-    <file name="hamburger_yellow.png" crc="3825879452" ref="about:index">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
+    <file name="hamburger_yellow.png" crc="3825879452" ref="about:index:cinematography">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
@@ -97,27 +102,27 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
     </file>
-    <file name="x-mark_yellow.png" crc="3987643854" ref="about:index">
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
-      <caption webpage="directing" alt=""/>
+    <file name="x-mark_yellow.png" crc="3987643854" ref="about:index:cinematography">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="directing" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="films" alt=""/>
@@ -126,48 +131,47 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
     </file>
     <file name="jack_desmond_on_set_looking_for-u1793-fr2.jpg" crc="202787168" ref="about"/>
-    <file name="icons8-instagram-50.png" crc="469895057" seo="true" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork">
+    <file name="icons8-instagram-50.png" crc="469895057" seo="true" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad">
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
       <caption webpage="videography" alt=""/>
       <caption webpage="videography" alt=""/>
       <caption webpage="videography" alt=""/>
       <caption webpage="videography" alt=""/>
       <caption webpage="videography" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
@@ -178,57 +182,67 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
     </file>
-    <file name="icons8-linkedin-50.png" crc="232328558" seo="true" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork">
+    <file name="icons8-linkedin-50.png" crc="232328558" seo="true" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad">
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
       <caption webpage="videography" alt=""/>
       <caption webpage="videography" alt=""/>
       <caption webpage="videography" alt=""/>
       <caption webpage="videography" alt=""/>
       <caption webpage="videography" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
@@ -239,57 +253,67 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
     </file>
-    <file name="icons8-twitter-squared-50.png" crc="4264020858" seo="true" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork">
+    <file name="icons8-twitter-squared-50.png" crc="4264020858" seo="true" ref="about:index:films:cinematography:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad">
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
+      <caption webpage="showreel" alt=""/>
       <caption webpage="videography" alt=""/>
       <caption webpage="videography" alt=""/>
       <caption webpage="videography" alt=""/>
       <caption webpage="videography" alt=""/>
       <caption webpage="videography" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="berlin" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
+      <caption webpage="berlin" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
@@ -300,16 +324,31 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
-      <caption webpage="showreel" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
     </file>
     <file name="jack_desmond_on_set_looking_for-u1793-fr3.jpg" crc="461972970" ref="about"/>
     <file name="looking_for_web_still400x169.jpg" crc="182893838" seo="true" ref="cinematography">
@@ -897,15 +936,84 @@
       <caption webpage="west-cork" alt=""/>
     </file>
     <file name="home-favicon.ico" crc="4244510046" ref="index"/>
+    <file name="screenshot (46)-u9647-fr.jpg" crc="4030235153" ref="cinematography"/>
+    <file name="screenshot (46).jpg" crc="3899137545" ref="cinematography">
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+    </file>
+    <file name="screenshot (46)-u9647-fr2.jpg" crc="4131578718" ref="cinematography"/>
+    <file name="new-design-other-menu-favicon.ico" crc="4253806463" ref="looking-for"/>
+    <file name="alone_spec_ad_1161-crop-u10341.jpg" crc="4050234285" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_131-crop-u10324.jpg" crc="3841121392" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_111-crop-u10276.jpg" crc="427416311" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_152-crop-u10290.jpg" crc="3863487551" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_1161-crop-u103412.jpg" crc="4205038912" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_131-crop-u103242.jpg" crc="523721983" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_111-crop-u102762.jpg" crc="3814664858" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_152-crop-u102902.jpg" crc="4169661071" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_1161-crop-u103413.jpg" crc="3771638125" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_131-crop-u103243.jpg" crc="47871534" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_111-crop-u102763.jpg" crc="4009177207" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_152-crop-u102903.jpg" crc="96618325" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_1161-crop-u103414.jpg" crc="51396499" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_131-crop-u103244.jpg" crc="266194962" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_111-crop-u102764.jpg" crc="194864559" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_152-crop-u102904.jpg" crc="4028553845" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_1161-crop-u103415.jpg" crc="4131730316" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_131-crop-u103245.jpg" crc="4218448244" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_111-crop-u102765.jpg" crc="3817290829" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
+    <file name="alone_spec_ad_152-crop-u102905.jpg" crc="457780751" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt=""/>
+    </file>
   </folder>
   <file name="about.html" crc="9249714" seo="true" mt="1576443086119" redirect="true"/>
-  <file name="index.html" crc="3892828043" seo="true" mt="1576443042026" redirect="true"/>
-  <file name="films.html" crc="3893813144" seo="true" mt="1576443086119" redirect="true"/>
-  <file name="cinematography.html" crc="4202795603" seo="true" mt="1576443086119" redirect="true"/>
-  <file name="directing.html" crc="4093229374" seo="true" mt="1576443086119" redirect="true"/>
-  <file name="videography.html" crc="455936848" seo="true" mt="1576443086119" redirect="true"/>
+  <file name="index.html" crc="414332868" seo="true" mt="1579190400642" redirect="true"/>
+  <file name="films.html" crc="273532600" seo="true" mt="1576443670439" redirect="true"/>
+  <file name="cinematography.html" crc="4066791012" seo="true" mt="1581259886527" redirect="true"/>
+  <file name="directing.html" crc="3890478740" seo="true" mt="1579189426282" redirect="true"/>
+  <file name="videography.html" crc="503959033" seo="true" mt="1581258505779" redirect="true"/>
   <file name="photography.html" crc="3850817177" seo="true" mt="1576443244797" redirect="true"/>
   <file name="electric-picnic.html" crc="268254520" seo="true" mt="1576443086119" redirect="true"/>
   <file name="berlin--35mm-photography--jack-desmond.html" crc="4181793001" seo="true" mt="1576443086119" redirect="true"/>
   <file name="west-cork.html" crc="3790262687" seo="true" mt="1576443086119" redirect="true"/>
+  <file name="looking-for.html" crc="4269252264" seo="true" mt="1581258769063" redirect="true"/>
+  <file name="alone-spec-ad.html" crc="79339317" seo="true" mt="1581259904515" redirect="true"/>
 </manifest>
