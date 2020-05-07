@@ -13,7 +13,7 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.jackdesmond.com/films.html</loc>
+  <loc>http://www.jackdesmond.com/about.html</loc>
   <lastmod>2020-04-25T10:31:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -23,17 +23,12 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>http://www.jackdesmond.com/films.html</loc>
+  <lastmod>2020-04-25T10:31:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>http://www.jackdesmond.com/photography.html</loc>
-  <lastmod>2020-04-25T10:31:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.jackdesmond.com/index.html</loc>
-  <lastmod>2020-04-25T10:31:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.jackdesmond.com/about.html</loc>
   <lastmod>2020-04-25T10:31:38+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -48,7 +43,22 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.jackdesmond.com/electric-picnic.html</loc>
+  <loc>http://www.jackdesmond.com/gemini-lost-boys-music-video.html</loc>
+  <lastmod>2020-04-25T10:31:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.jackdesmond.com/looking-for.html</loc>
+  <lastmod>2020-04-25T10:31:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.jackdesmond.com/speak-to-her.html</loc>
+  <lastmod>2020-04-25T10:31:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.jackdesmond.com/alone-spec-ad.html</loc>
   <lastmod>2020-04-25T10:31:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
@@ -63,12 +73,7 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.jackdesmond.com/speak-to-her.html</loc>
-  <lastmod>2020-04-25T10:31:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.jackdesmond.com/alone-spec-ad.html</loc>
+  <loc>http://www.jackdesmond.com/electric-picnic.html</loc>
   <lastmod>2020-04-25T10:31:38+00:00</lastmod>
   <priority>0.51</priority>
 </url>
@@ -78,27 +83,7 @@
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://www.jackdesmond.com/gemini-lost-boys-music-video.html</loc>
-  <lastmod>2020-04-25T10:31:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.jackdesmond.com/looking-for.html</loc>
-  <lastmod>2020-04-25T10:31:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
   <loc>http://www.jackdesmond.com/the-quiet.html</loc>
-  <lastmod>2020-04-25T10:31:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.jackdesmond.com/twisted-alchemist.html</loc>
-  <lastmod>2020-04-25T10:31:38+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.jackdesmond.com/mount-brandon.html</loc>
   <lastmod>2020-04-25T10:31:38+00:00</lastmod>
   <priority>0.51</priority>
 </url>

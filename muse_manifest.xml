@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jackdesmond.com" resolutions="1x" timestamp="1588860427548">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jackdesmond.com" resolutions="1x" timestamp="1588862870729">
   <folder name="css">
     <file name="site_global.css" crc="4142734519"/>
-    <file name="master_a-master.css" crc="4286855340" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3970490803" ref="index"/>
+    <file name="master_a-master.css" crc="4275982985" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4123869068" ref="index"/>
     <file name="master_b-master.css" crc="132295978" ref="looking-for:directing:grandad:gemini-lost-boys-music-video:west-cork:photography:speak-to-her:berlin--35mm-photography--jack-desmond:videography:the-quiet:electric-picnic:films:mount-brandon:about:alone-spec-ad:cinematography:twisted-alchemist"/>
     <file name="nomq_preview_master_b-master.css" crc="14741286" ref="looking-for:directing:grandad:gemini-lost-boys-music-video:west-cork:photography:speak-to-her:berlin--35mm-photography--jack-desmond:videography:the-quiet:electric-picnic:films:mount-brandon:about:alone-spec-ad:cinematography:twisted-alchemist"/>
     <file name="looking-for.css" crc="197102116" ref="looking-for"/>
@@ -44,8 +44,8 @@
     <file name="nomq_alone-spec-ad.css" crc="246825844" ref="alone-spec-ad"/>
     <file name="cinematography.css" crc="3981119647" ref="cinematography"/>
     <file name="nomq_cinematography.css" crc="274138550" ref="cinematography"/>
-    <file name="index.css" crc="238021376" ref="index"/>
-    <file name="nomq_index.css" crc="503283654" ref="index"/>
+    <file name="index.css" crc="4213769591" ref="index"/>
+    <file name="nomq_index.css" crc="146727871" ref="index"/>
     <file name="twisted-alchemist.css" crc="4137163689" ref="twisted-alchemist"/>
     <file name="nomq_twisted-alchemist.css" crc="463734823" ref="twisted-alchemist"/>
     <file name="iefonts_twisted-alchemist.css" crc="3983764078" ref="twisted-alchemist"/>
@@ -61,13 +61,10 @@
     <file name="musewpdisclosure.js" crc="119288625" ref="about:index:cinematography:films:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="about:index:cinematography:films:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video"/>
     <file name="require.js" crc="4157109226" ref="about:index:cinematography:films:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
     <file name="about-favicon.ico" crc="4244510046" ref="about"/>
-    <file name="1_img00015.jpg" crc="527408166" ref="about:index:cinematography:directing">
+    <file name="1_img00015.jpg" crc="527408166" ref="about:cinematography:directing">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -84,172 +81,172 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="about:index:cinematography:films:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video"/>
     <file name="icons8-instagram-50.png" crc="469895057" seo="true" ref="about:index:cinematography:films:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video">
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="west-cork" alt=""/>
-      <caption webpage="west-cork" alt=""/>
-      <caption webpage="west-cork" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="mount-brandon" alt=""/>
       <caption webpage="mount-brandon" alt=""/>
       <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="west-cork" alt=""/>
+      <caption webpage="west-cork" alt=""/>
+      <caption webpage="west-cork" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
       <caption webpage="gemini-lost-boys-music-video" alt=""/>
       <caption webpage="gemini-lost-boys-music-video" alt=""/>
       <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
       <caption webpage="the-quiet" alt=""/>
       <caption webpage="the-quiet" alt=""/>
       <caption webpage="the-quiet" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
     </file>
     <file name="icons8-linkedin-50.png" crc="232328558" seo="true" ref="about:index:cinematography:films:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video">
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="west-cork" alt=""/>
-      <caption webpage="west-cork" alt=""/>
-      <caption webpage="west-cork" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="mount-brandon" alt=""/>
       <caption webpage="mount-brandon" alt=""/>
       <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="west-cork" alt=""/>
+      <caption webpage="west-cork" alt=""/>
+      <caption webpage="west-cork" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
       <caption webpage="gemini-lost-boys-music-video" alt=""/>
       <caption webpage="gemini-lost-boys-music-video" alt=""/>
       <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
       <caption webpage="the-quiet" alt=""/>
       <caption webpage="the-quiet" alt=""/>
       <caption webpage="the-quiet" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
     </file>
     <file name="icons8-twitter-squared-50.png" crc="4264020858" seo="true" ref="about:index:cinematography:films:directing:videography:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video">
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="west-cork" alt=""/>
-      <caption webpage="west-cork" alt=""/>
-      <caption webpage="west-cork" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="cinematography" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="mount-brandon" alt=""/>
       <caption webpage="mount-brandon" alt=""/>
       <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="west-cork" alt=""/>
+      <caption webpage="west-cork" alt=""/>
+      <caption webpage="west-cork" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
       <caption webpage="gemini-lost-boys-music-video" alt=""/>
       <caption webpage="gemini-lost-boys-music-video" alt=""/>
       <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
       <caption webpage="the-quiet" alt=""/>
       <caption webpage="the-quiet" alt=""/>
       <caption webpage="the-quiet" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="cinematography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
     </file>
     <file name="jack_desmond_cinematographer_director325x216.jpg" crc="4238982185" seo="true" ref="about">
       <caption webpage="about" alt="Jack Desmond, cinematographer and director, shoots a film with the Arri Alexa camera"/>
@@ -274,7 +271,6 @@
       <caption webpage="about" alt="Jack Desmond, cinematographer and director, shoots a film with the Arri Alexa camera"/>
     </file>
     <file name="jack-desmond-favicon.ico" crc="4244510046" ref="index"/>
-    <file name="1_img00015-u2610-r-fr.png" crc="3866490810" ref="index"/>
     <file name="cinematography-favicon.ico" crc="4244510046" ref="cinematography"/>
     <file name="looking_for_web_still400x169.jpg" crc="182893838" seo="true" ref="cinematography">
       <caption webpage="cinematography" alt=""/>
@@ -596,7 +592,7 @@
       <caption webpage="looking-for" alt=""/>
       <caption webpage="looking-for" alt=""/>
     </file>
-    <file name="jack_desmond_old_age_commercial_01-crop-u10324.jpg" crc="4186417984" seo="true" ref="alone-spec-ad">
+    <file name="jack_desmond_old_age_commercial_01-crop-u10324.jpg" crc="3836326540" seo="true" ref="alone-spec-ad">
       <caption webpage="alone-spec-ad" alt="Man sits in van, in scene from Jack Desmond's commercial for old age charity Alone"/>
     </file>
     <file name="jack_desmond_old_age_commercial_03-crop-u10276.jpg" crc="427416311" seo="true" ref="alone-spec-ad">
@@ -728,22 +724,22 @@
       <caption webpage="twisted-alchemist" alt=""/>
     </file>
   </folder>
-  <file name="about.html" crc="186933848" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="index.html" crc="231522144" seo="true" mt="1588860213844" redirect="true"/>
-  <file name="cinematography.html" crc="4076826885" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="films.html" crc="4026389563" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="directing.html" crc="64393593" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="videography.html" crc="4156489854" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="photography.html" crc="513691566" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="electric-picnic.html" crc="3787936509" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="berlin--35mm-photography--jack-desmond.html" crc="79142581" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="west-cork.html" crc="4228781546" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="looking-for.html" crc="67853923" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="alone-spec-ad.html" crc="3949888644" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="mount-brandon.html" crc="213507703" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="the-quiet.html" crc="4048449824" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="speak-to-her.html" crc="3922553699" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="grandad.html" crc="410482469" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="twisted-alchemist.html" crc="4241522393" seo="true" mt="1588848023504" redirect="true"/>
-  <file name="gemini-lost-boys-music-video.html" crc="142108456" seo="true" mt="1588848023504" redirect="true"/>
+  <file name="about.html" crc="66846986" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="index.html" crc="4136428178" seo="true" mt="1588862774260" redirect="true"/>
+  <file name="cinematography.html" crc="356118888" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="films.html" crc="4293165141" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="directing.html" crc="94136563" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="videography.html" crc="202842026" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="photography.html" crc="4267616820" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="electric-picnic.html" crc="38477895" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="berlin--35mm-photography--jack-desmond.html" crc="63624769" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="west-cork.html" crc="192008320" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="looking-for.html" crc="4158160284" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="alone-spec-ad.html" crc="240949555" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="mount-brandon.html" crc="483251919" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="the-quiet.html" crc="4149609662" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="speak-to-her.html" crc="4242810292" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="grandad.html" crc="3932772775" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="twisted-alchemist.html" crc="287635592" seo="true" mt="1588862780437" redirect="true"/>
+  <file name="gemini-lost-boys-music-video.html" crc="205902982" seo="true" mt="1588862780437" redirect="true"/>
 </manifest>
