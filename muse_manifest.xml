@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jackdesmond.com" resolutions="1x" timestamp="1587810561818">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jackdesmond.com" resolutions="1x" timestamp="1588799771602">
   <folder name="css">
     <file name="site_global.css" crc="4142734519"/>
     <file name="master_new-design-home.css" crc="3841069783" ref="index"/>
     <file name="nomq_preview_master_new-design-home.css" crc="217087889" ref="index"/>
-    <file name="master_new-design-other-menu.css" crc="525168615" ref="twisted-alchemist:mount-brandon:berlin--35mm-photography--jack-desmond:about:photography:cinematography:west-cork:the-quiet:grandad:gemini-lost-boys-music-video:directing:looking-for:speak-to-her:films:alone-spec-ad:electric-picnic:videography"/>
-    <file name="nomq_preview_master_new-design-other-menu.css" crc="4049519258" ref="twisted-alchemist:mount-brandon:berlin--35mm-photography--jack-desmond:about:photography:cinematography:west-cork:the-quiet:grandad:gemini-lost-boys-music-video:directing:looking-for:speak-to-her:films:alone-spec-ad:electric-picnic:videography"/>
+    <file name="master_new-design-other-menu.css" crc="122004850" ref="twisted-alchemist:mount-brandon:berlin--35mm-photography--jack-desmond:about:photography:cinematography:west-cork:the-quiet:grandad:gemini-lost-boys-music-video:directing:looking-for:speak-to-her:films:alone-spec-ad:electric-picnic:videography"/>
+    <file name="nomq_preview_master_new-design-other-menu.css" crc="503607504" ref="twisted-alchemist:mount-brandon:berlin--35mm-photography--jack-desmond:about:photography:cinematography:west-cork:the-quiet:grandad:gemini-lost-boys-music-video:directing:looking-for:speak-to-her:films:alone-spec-ad:electric-picnic:videography"/>
     <file name="twisted-alchemist.css" crc="4192593899" ref="twisted-alchemist"/>
     <file name="nomq_twisted-alchemist.css" crc="44128567" ref="twisted-alchemist"/>
     <file name="iefonts_twisted-alchemist.css" crc="3983764078" ref="twisted-alchemist"/>
     <file name="mount-brandon.css" crc="4083491576" ref="mount-brandon"/>
     <file name="nomq_mount-brandon.css" crc="3920001373" ref="mount-brandon"/>
     <file name="iefonts_mount-brandon.css" crc="3983764078" ref="mount-brandon"/>
-    <file name="berlin--35mm-photography--jack-desmond.css" crc="352486973" ref="berlin--35mm-photography--jack-desmond"/>
-    <file name="nomq_berlin--35mm-photography--jack-desmond.css" crc="220586676" ref="berlin--35mm-photography--jack-desmond"/>
-    <file name="about.css" crc="494940069" ref="about"/>
-    <file name="nomq_about.css" crc="4268328391" ref="about"/>
+    <file name="berlin--35mm-photography--jack-desmond.css" crc="3995066125" ref="berlin--35mm-photography--jack-desmond"/>
+    <file name="nomq_berlin--35mm-photography--jack-desmond.css" crc="87775493" ref="berlin--35mm-photography--jack-desmond"/>
+    <file name="about.css" crc="250207627" ref="about"/>
+    <file name="nomq_about.css" crc="4218788741" ref="about"/>
     <file name="photography.css" crc="262136718" ref="photography"/>
     <file name="nomq_photography.css" crc="3840814178" ref="photography"/>
     <file name="cinematography.css" crc="280660224" ref="cinematography"/>
@@ -35,19 +35,19 @@
     <file name="looking-for.css" crc="372029459" ref="looking-for"/>
     <file name="nomq_looking-for.css" crc="3759643712" ref="looking-for"/>
     <file name="iefonts_looking-for.css" crc="3983764078" ref="looking-for"/>
-    <file name="speak-to-her.css" crc="253849426" ref="speak-to-her"/>
-    <file name="nomq_speak-to-her.css" crc="4106320889" ref="speak-to-her"/>
+    <file name="speak-to-her.css" crc="176731305" ref="speak-to-her"/>
+    <file name="nomq_speak-to-her.css" crc="498217936" ref="speak-to-her"/>
     <file name="iefonts_speak-to-her.css" crc="3983764078" ref="speak-to-her"/>
-    <file name="films.css" crc="3844877803" ref="films"/>
+    <file name="films.css" crc="4078369885" ref="films"/>
     <file name="nomq_films.css" crc="430099299" ref="films"/>
     <file name="iefonts_films.css" crc="3983764078" ref="films"/>
     <file name="index.css" crc="520587604" ref="index"/>
     <file name="nomq_index.css" crc="3910957512" ref="index"/>
-    <file name="alone-spec-ad.css" crc="3766479964" ref="alone-spec-ad"/>
-    <file name="nomq_alone-spec-ad.css" crc="489452809" ref="alone-spec-ad"/>
+    <file name="alone-spec-ad.css" crc="4006119111" ref="alone-spec-ad"/>
+    <file name="nomq_alone-spec-ad.css" crc="266672997" ref="alone-spec-ad"/>
     <file name="electric-picnic.css" crc="3800395658" ref="electric-picnic"/>
     <file name="nomq_electric-picnic.css" crc="239818472" ref="electric-picnic"/>
-    <file name="videography.css" crc="259009849" ref="videography"/>
+    <file name="videography.css" crc="4091412140" ref="videography"/>
     <file name="nomq_videography.css" crc="3760510365" ref="videography"/>
   </folder>
   <folder name="scripts">
@@ -55,7 +55,7 @@
     <file name="museutils.js" crc="3803043152" ref="about:index:cinematography:films:directing:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video:videography"/>
     <file name="whatinput.js" crc="86476730" ref="about:index:cinematography:films:directing:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video:videography"/>
     <file name="museconfig.js" crc="380897831" ref="about:index:cinematography:films:directing:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video:videography"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index:speak-to-her"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="about:index"/>
     <file name="jquery.watch.js" crc="99325471" ref="about:index:cinematography:films:directing:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video:videography"/>
     <file name="webpro.js" crc="242022427" ref="about:index:cinematography:films:directing:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video:videography"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="about:index:cinematography:films:directing:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video:videography"/>
@@ -67,16 +67,16 @@
   </folder>
   <folder name="images">
     <file name="about-favicon.ico" crc="4244510046" ref="about"/>
-    <file name="1_img00015.jpg" crc="527408166" ref="about:index:speak-to-her">
+    <file name="1_img00015.jpg" crc="527408166" ref="about:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
@@ -86,18 +86,14 @@
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
-    </file>
-    <file name="jack_desmond_on_set_looking_for.jpg" crc="3779333320" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
@@ -108,65 +104,55 @@
       <caption webpage="speak-to-her" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
@@ -177,26 +163,36 @@
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
     </file>
     <file name="icons8-linkedin-50.png" crc="232328558" seo="true" ref="about:index:cinematography:films:directing:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video:videography">
       <caption webpage="speak-to-her" alt=""/>
@@ -204,65 +200,55 @@
       <caption webpage="speak-to-her" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
@@ -273,26 +259,36 @@
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
     </file>
     <file name="icons8-twitter-squared-50.png" crc="4264020858" seo="true" ref="about:index:cinematography:films:directing:photography:electric-picnic:berlin--35mm-photography--jack-desmond:west-cork:looking-for:alone-spec-ad:mount-brandon:the-quiet:speak-to-her:grandad:twisted-alchemist:gemini-lost-boys-music-video:videography">
       <caption webpage="speak-to-her" alt=""/>
@@ -300,65 +296,55 @@
       <caption webpage="speak-to-her" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
-      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="mount-brandon" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="alone-spec-ad" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="videography" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
-      <caption webpage="grandad" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="gemini-lost-boys-music-video" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
-      <caption webpage="looking-for" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
+      <caption webpage="grandad" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="video-production" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="the-quiet" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
-      <caption webpage="alone-spec-ad" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="videography" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
+      <caption webpage="gemini-lost-boys-music-video" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="photography" alt=""/>
@@ -369,36 +355,45 @@
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="mount-brandon" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="twisted-alchemist" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
       <caption webpage="west-cork" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="electric-picnic" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="looking-for" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="video-production" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="the-quiet" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
+      <caption webpage="twisted-alchemist" alt=""/>
     </file>
-    <file name="jack_desmond_on_set_looking_for-u1793-fr.jpg" crc="355087340" ref="about"/>
-    <file name="hamburger_yellow.png" crc="3825879452" ref="about:index:speak-to-her">
+    <file name="hamburger_yellow.png" crc="3825879452" ref="about:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
@@ -407,23 +402,23 @@
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="x-mark_yellow.png" crc="3987643854" ref="about:index:speak-to-her">
+    <file name="x-mark_yellow.png" crc="3987643854" ref="about:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="films" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
@@ -432,17 +427,15 @@
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
       <caption webpage="cinematography" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="films" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="jack_desmond_on_set_looking_for-u1793-fr2.jpg" crc="202787168" ref="about"/>
-    <file name="jack_desmond_on_set_looking_for-u1793-fr3.jpg" crc="461972970" ref="about"/>
     <file name="1_img00015-u2610-r-fr.png" crc="3866490810" ref="index"/>
     <file name="cinematography-favicon.ico" crc="4244510046" ref="cinematography"/>
     <file name="looking_for_web_still400x169.jpg" crc="182893838" seo="true" ref="cinematography">
@@ -525,25 +518,13 @@
     <file name="speak_to_her_web_still_01-crop-u50943.jpg" crc="4264494020" seo="true" ref="films">
       <caption webpage="films" alt=""/>
     </file>
-    <file name="alone_web_still_02-crop-u5331.jpg" crc="3941098414" seo="true" ref="films">
-      <caption webpage="films" alt=""/>
-    </file>
-    <file name="speak_to_her_web_still_01-crop-u5307.jpg" crc="431633976" seo="true" ref="films">
-      <caption webpage="films" alt=""/>
-    </file>
-    <file name="alone_web_still_02-crop-u53312.jpg" crc="4284678207" seo="true" ref="films">
-      <caption webpage="films" alt=""/>
-    </file>
-    <file name="speak_to_her_web_still_01-crop-u53072.jpg" crc="3945107410" seo="true" ref="films">
-      <caption webpage="films" alt=""/>
-    </file>
     <file name="directing-favicon.ico" crc="4244510046" ref="directing"/>
     <file name="speak_to_her_web_still_02.jpg" crc="4055369309" seo="true" ref="directing:speak-to-her">
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
       <caption webpage="directing" alt=""/>
@@ -691,141 +672,6 @@
       <caption webpage="electric-picnic" alt=""/>
     </file>
     <file name="berlin--35mm-photography--jack-desmond-favicon.ico" crc="4244510046" ref="berlin--35mm-photography--jack-desmond"/>
-    <file name="1_img00002.jpg" crc="3819134756" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00017.jpg" crc="4121496214" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00013-crop-u7812.jpg" crc="203889974" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00007.jpg" crc="191359281" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="cnv00006.jpg" crc="4103985658" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00030-crop-u8049.jpg" crc="98942561" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00024.jpg" crc="4254401000" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00035.jpg" crc="350523467" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00005.jpg" crc="75224099" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00002678x454.jpg" crc="3813461585" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00017678x454.jpg" crc="117562746" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00013454x678.jpg" crc="533580935" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00007678x454.jpg" crc="4043331988" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="cnv00006678x454.jpg" crc="433830477" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00030-crop-u80492.jpg" crc="4992216" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00024678x454.jpg" crc="176686263" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00035678x454.jpg" crc="4288059417" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00005678x454.jpg" crc="4019787521" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00002549x368.jpg" crc="145861641" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00017549x368.jpg" crc="313728202" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00013368x549.jpg" crc="467479751" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00007549x368.jpg" crc="263467085" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="cnv00006549x368.jpg" crc="3758853895" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00030-crop-u80493.jpg" crc="315054373" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00024549x368.jpg" crc="4231594577" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00035549x368.jpg" crc="81055274" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00005549x368.jpg" crc="3881190208" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00002399x267.jpg" crc="4281946792" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00017399x267.jpg" crc="4251987734" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00013268x399.jpg" crc="253906412" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00007399x267.jpg" crc="437625029" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="cnv00006399x267.jpg" crc="4018268328" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00030-crop-u80494.jpg" crc="4202252539" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00024399x267.jpg" crc="242992538" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00035399x267.jpg" crc="370421797" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00005399x267.jpg" crc="3834731711" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00002320x214.jpg" crc="3811458277" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00017320x214.jpg" crc="4222947002" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00013214x320.jpg" crc="4263609525" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00007320x214.jpg" crc="4087350573" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="cnv00006320x214.jpg" crc="4252824420" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00030-crop-u80495.jpg" crc="488881773" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00024320x214.jpg" crc="4203942920" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00035320x214.jpg" crc="4161314235" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
-    <file name="1_img00005320x214.jpg" crc="4219220850" seo="true" ref="berlin--35mm-photography--jack-desmond">
-      <caption webpage="berlin--35mm-photography--jack-desmond" alt=""/>
-    </file>
     <file name="west-cork-favicon.ico" crc="4244510046" ref="west-cork"/>
     <file name="1_img00016.jpg" crc="4080499052" seo="true" ref="west-cork">
       <caption webpage="west-cork" alt=""/>
@@ -962,58 +808,13 @@
     <file name="f1000022-crop-u89782.jpg" crc="3870912496" seo="true" ref="west-cork">
       <caption webpage="west-cork" alt=""/>
     </file>
-    <file name="new-design-other-menu-favicon.ico" crc="4244510046" ref="looking-for:speak-to-her"/>
+    <file name="new-design-other-menu-favicon.ico" crc="4244510046" ref="looking-for:alone-spec-ad"/>
     <file name="best cinematography - rts roi - 2020.png" crc="4122051350" seo="true" ref="looking-for">
       <caption webpage="looking-for" alt=""/>
       <caption webpage="looking-for" alt=""/>
       <caption webpage="looking-for" alt=""/>
       <caption webpage="looking-for" alt=""/>
       <caption webpage="looking-for" alt=""/>
-    </file>
-    <file name="alone_spec_ad_131-crop-u10324.jpg" crc="4068706831" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_111-crop-u10276.jpg" crc="427416311" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_152-crop-u10290.jpg" crc="3863487551" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_131-crop-u103242.jpg" crc="265353319" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_111-crop-u102762.jpg" crc="3814664858" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_152-crop-u102902.jpg" crc="4169661071" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_131-crop-u103243.jpg" crc="47871534" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_111-crop-u102763.jpg" crc="4009177207" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_152-crop-u102903.jpg" crc="96618325" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_131-crop-u103244.jpg" crc="453258113" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_111-crop-u102764.jpg" crc="194864559" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_152-crop-u102904.jpg" crc="4028553845" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_131-crop-u103245.jpg" crc="3914529816" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_111-crop-u102765.jpg" crc="3817290829" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
-    </file>
-    <file name="alone_spec_ad_152-crop-u102905.jpg" crc="457780751" seo="true" ref="alone-spec-ad">
-      <caption webpage="alone-spec-ad" alt=""/>
     </file>
     <file name="the quiet (2).jpg" crc="4252965148" seo="true" ref="the-quiet">
       <caption webpage="the-quiet" alt=""/>
@@ -1055,10 +856,6 @@
     <file name="the quiet (4)289x163.jpg" crc="4190793915" seo="true" ref="the-quiet">
       <caption webpage="the-quiet" alt=""/>
     </file>
-    <file name="speak_to_her (4).jpg" crc="295392643" seo="true" ref="speak-to-her">
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-    </file>
     <file name="best short form - rts roi - 2019.png" crc="3961090997" seo="true" ref="speak-to-her">
       <caption webpage="speak-to-her" alt=""/>
       <caption webpage="speak-to-her" alt=""/>
@@ -1074,33 +871,24 @@
       <caption webpage="speak-to-her" alt=""/>
     </file>
     <file name="speak_to_her (2).jpg" crc="3810437348" seo="true" ref="speak-to-her">
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
     </file>
     <file name="speak_to_her (3).jpg" crc="3838055461" seo="true" ref="speak-to-her">
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-      <caption webpage="speak-to-her" alt=""/>
-    </file>
-    <file name="speak_to_her (4)401x226.jpg" crc="3820552071" seo="true" ref="speak-to-her">
-      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
     </file>
     <file name="speak_to_her (2)392x221.jpg" crc="4071349164" seo="true" ref="speak-to-her">
-      <caption webpage="speak-to-her" alt=""/>
-    </file>
-    <file name="speak_to_her (4)360x203.jpg" crc="3803677973" seo="true" ref="speak-to-her">
-      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
     </file>
     <file name="speak_to_her (2)361x204.jpg" crc="3982039769" seo="true" ref="speak-to-her">
-      <caption webpage="speak-to-her" alt=""/>
-    </file>
-    <file name="speak_to_her (4)288x162.jpg" crc="435044903" seo="true" ref="speak-to-her">
-      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
     </file>
     <file name="speak_to_her (2)289x163.jpg" crc="3932029903" seo="true" ref="speak-to-her">
-      <caption webpage="speak-to-her" alt=""/>
+      <caption webpage="speak-to-her" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
     </file>
     <file name="grandad (1).jpg" crc="4165279846" seo="true" ref="grandad">
       <caption webpage="grandad" alt=""/>
@@ -1206,44 +994,257 @@
     <file name="moun_brandon288x162.jpg" crc="454904884" seo="true" ref="cinematography">
       <caption webpage="cinematography" alt=""/>
     </file>
-    <file name="dsc04780-2.jpg" crc="75601407" seo="true" ref="videography">
-      <caption webpage="videography" alt=""/>
-      <caption webpage="video-production" alt=""/>
-    </file>
-    <file name="dsc04780-2679x382.jpg" crc="36677672" seo="true" ref="videography">
-      <caption webpage="videography" alt=""/>
-      <caption webpage="video-production" alt=""/>
-    </file>
-    <file name="dsc04780-2550x310.jpg" crc="332882551" seo="true" ref="videography">
-      <caption webpage="videography" alt=""/>
-      <caption webpage="video-production" alt=""/>
-    </file>
-    <file name="dsc04780-2400x225.jpg" crc="4012336496" seo="true" ref="videography">
-      <caption webpage="videography" alt=""/>
-      <caption webpage="video-production" alt=""/>
-    </file>
-    <file name="dsc04780-2320x180.jpg" crc="4122523145" seo="true" ref="videography">
-      <caption webpage="videography" alt=""/>
-      <caption webpage="video-production" alt=""/>
-    </file>
     <file name="video-production-favicon.ico" crc="4244510046" ref="videography"/>
+    <file name="jack_desmond_cinematographer_director.jpg" crc="3919476394" seo="true" ref="about">
+      <caption webpage="about" alt="Jack Desmond, cinematographer and director, shoots a film with the Arri Alexa camera"/>
+      <caption webpage="about" alt="Jack Desmond, cinematographer and director, shoots a film with the Arri Alexa camera"/>
+    </file>
+    <file name="jack_desmond_cinematographer_director325x216.jpg" crc="4238982185" seo="true" ref="about">
+      <caption webpage="about" alt="Jack Desmond, cinematographer and director, shoots a film with the Arri Alexa camera"/>
+    </file>
+    <file name="jack_desmond_cinematographer_director263x175.jpg" crc="125669905" seo="true" ref="about">
+      <caption webpage="about" alt="Jack Desmond, cinematographer and director, shoots a film with the Arri Alexa camera"/>
+    </file>
+    <file name="jack_desmond_cinematographer_director320x214.jpg" crc="312115118" seo="true" ref="about">
+      <caption webpage="about" alt="Jack Desmond, cinematographer and director, shoots a film with the Arri Alexa camera"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_01-crop-u5331.jpg" crc="492510954" seo="true" ref="films">
+      <caption webpage="films" alt="Character in van, in commercial for Alone, old age charity, directed and cinematography by Jack Desmond"/>
+    </file>
+    <file name="speak_to_her_short_film_jack_desmond-crop-u5307.jpg" crc="370888306" seo="true" ref="films">
+      <caption webpage="films" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_01-crop-u53312.jpg" crc="513572998" seo="true" ref="films">
+      <caption webpage="films" alt="Character in van, in commercial for Alone, old age charity, directed and cinematography by Jack Desmond"/>
+    </file>
+    <file name="speak_to_her_short_film_jack_desmond-crop-u53072.jpg" crc="407978943" seo="true" ref="films">
+      <caption webpage="films" alt="Still from award-winning short film 'Speak To Her'. Directed by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_blackmagic_ursa_mini_cinema_camera.jpg" crc="75601407" seo="true" ref="videography">
+      <caption webpage="videography" alt="Jack Desmond's cinema camera package, including Blackmagic Ursa Mini and two LED light panels, which is available for rental"/>
+    </file>
+    <file name="jack_desmond_blackmagic_ursa_mini_cinema_camera679x382.jpg" crc="36677672" seo="true" ref="videography">
+      <caption webpage="videography" alt="Jack Desmond's cinema camera package, including Blackmagic Ursa Mini and two LED light panels, which is available for rental"/>
+    </file>
+    <file name="jack_desmond_blackmagic_ursa_mini_cinema_camera550x310.jpg" crc="332882551" seo="true" ref="videography">
+      <caption webpage="videography" alt="Jack Desmond's cinema camera package, including Blackmagic Ursa Mini and two LED light panels, which is available for rental"/>
+    </file>
+    <file name="jack_desmond_blackmagic_ursa_mini_cinema_camera400x225.jpg" crc="4012336496" seo="true" ref="videography">
+      <caption webpage="videography" alt="Jack Desmond's cinema camera package, including Blackmagic Ursa Mini and two LED light panels, which is available for rental"/>
+    </file>
+    <file name="jack_desmond_blackmagic_ursa_mini_cinema_camera320x180.jpg" crc="4122523145" seo="true" ref="videography">
+      <caption webpage="videography" alt="Jack Desmond's cinema camera package, including Blackmagic Ursa Mini and two LED light panels, which is available for rental"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (1).jpg" crc="3819134756" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Tajikistani Tea Gardens in Berlin, photographed by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (5).jpg" crc="4121496214" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Woman collects beer bottles in Berlin Mauerpark, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (4)-crop-u7812.jpg" crc="203889974" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Neon green lights in Berlin U-Bahn, photography by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (3).jpg" crc="191359281" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Tango next to river in Berlin, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (9).jpg" crc="4103985658" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="City volleyball beach, with Berlin Fernsehenturn TV Tower in background, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (7)-crop-u8049.jpg" crc="98942561" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Red church steeple against blue sky, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (6).jpg" crc="4254401000" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Street basketball court in Mauerpark, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (8).jpg" crc="350523467" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Crowd of commuters at sunset, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (2).jpg" crc="75224099" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Nothing but net basketball court in Mauerpark, Berlin. Picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (1)678x454.jpg" crc="3813461585" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Tajikistani Tea Gardens in Berlin, photographed by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (5)678x454.jpg" crc="117562746" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Woman collects beer bottles in Berlin Mauerpark, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (4)454x678.jpg" crc="533580935" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Neon green lights in Berlin U-Bahn, photography by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (3)678x454.jpg" crc="4043331988" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Tango next to river in Berlin, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (9)678x454.jpg" crc="433830477" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="City volleyball beach, with Berlin Fernsehenturn TV Tower in background, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (7)-crop-u80492.jpg" crc="4992216" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Red church steeple against blue sky, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (6)678x454.jpg" crc="176686263" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Street basketball court in Mauerpark, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (8)678x454.jpg" crc="4288059417" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Crowd of commuters at sunset, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (2)678x454.jpg" crc="4019787521" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Nothing but net basketball court in Mauerpark, Berlin. Picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (1)549x368.jpg" crc="145861641" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Tajikistani Tea Gardens in Berlin, photographed by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (5)549x368.jpg" crc="313728202" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Woman collects beer bottles in Berlin Mauerpark, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (4)368x549.jpg" crc="467479751" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Neon green lights in Berlin U-Bahn, photography by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (3)549x368.jpg" crc="263467085" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Tango next to river in Berlin, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (9)549x368.jpg" crc="3758853895" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="City volleyball beach, with Berlin Fernsehenturn TV Tower in background, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (7)-crop-u80493.jpg" crc="315054373" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Red church steeple against blue sky, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (6)549x368.jpg" crc="4231594577" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Street basketball court in Mauerpark, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (8)549x368.jpg" crc="81055274" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Crowd of commuters at sunset, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (2)549x368.jpg" crc="3881190208" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Nothing but net basketball court in Mauerpark, Berlin. Picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (1)399x267.jpg" crc="4281946792" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Tajikistani Tea Gardens in Berlin, photographed by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (5)399x267.jpg" crc="4251987734" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Woman collects beer bottles in Berlin Mauerpark, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (4)268x399.jpg" crc="253906412" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Neon green lights in Berlin U-Bahn, photography by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (3)399x267.jpg" crc="437625029" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Tango next to river in Berlin, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (9)399x267.jpg" crc="4018268328" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="City volleyball beach, with Berlin Fernsehenturn TV Tower in background, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (7)-crop-u80494.jpg" crc="4202252539" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Red church steeple against blue sky, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (6)399x267.jpg" crc="242992538" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Street basketball court in Mauerpark, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (8)399x267.jpg" crc="370421797" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Crowd of commuters at sunset, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (2)399x267.jpg" crc="3834731711" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Nothing but net basketball court in Mauerpark, Berlin. Picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (1)320x214.jpg" crc="3811458277" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Tajikistani Tea Gardens in Berlin, photographed by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (5)320x214.jpg" crc="4222947002" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Woman collects beer bottles in Berlin Mauerpark, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (4)214x320.jpg" crc="4263609525" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Neon green lights in Berlin U-Bahn, photography by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (3)320x214.jpg" crc="4087350573" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Tango next to river in Berlin, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (9)320x214.jpg" crc="4252824420" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="City volleyball beach, with Berlin Fernsehenturn TV Tower in background, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (7)-crop-u80495.jpg" crc="488881773" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Red church steeple against blue sky, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (6)320x214.jpg" crc="4203942920" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Street basketball court in Mauerpark, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (8)320x214.jpg" crc="4161314235" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Crowd of commuters at sunset, picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_berlin_35mm_photography (2)320x214.jpg" crc="4219220850" seo="true" ref="berlin--35mm-photography--jack-desmond">
+      <caption webpage="berlin--35mm-photography--jack-desmond" alt="Nothing but net basketball court in Mauerpark, Berlin. Picture by Jack Desmond"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_01-crop-u10324.jpg" crc="4186417984" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Man sits in van, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_03-crop-u10276.jpg" crc="427416311" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Old man looks out window, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_04-crop-u10290.jpg" crc="3863487551" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Plumper fixes sink, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_01-crop-u103242.jpg" crc="4052793650" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Man sits in van, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_03-crop-u102762.jpg" crc="3814664858" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Old man looks out window, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_04-crop-u102902.jpg" crc="4169661071" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Plumper fixes sink, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_01-crop-u103243.jpg" crc="285584214" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Man sits in van, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_03-crop-u102763.jpg" crc="4009177207" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Old man looks out window, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_04-crop-u102903.jpg" crc="96618325" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Plumper fixes sink, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_01-crop-u103244.jpg" crc="410528862" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Man sits in van, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_03-crop-u102764.jpg" crc="194864559" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Old man looks out window, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_04-crop-u102904.jpg" crc="4028553845" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Plumper fixes sink, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_01-crop-u103245.jpg" crc="191858307" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Man sits in van, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_03-crop-u102765.jpg" crc="3817290829" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Old man looks out window, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="jack_desmond_old_age_commercial_04-crop-u102905.jpg" crc="457780751" seo="true" ref="alone-spec-ad">
+      <caption webpage="alone-spec-ad" alt="Plumper fixes sink, in scene from Jack Desmond's commercial for old age charity Alone"/>
+    </file>
+    <file name="speak_to_her_short_film_jack_desmond.jpg" crc="295392643" seo="true" ref="speak-to-her">
+      <caption webpage="speak-to-her" alt="Still from short film Speak To Her, of the character Obafemi in a Dublin nightclub. Directed by Jack Desmond"/>
+      <caption webpage="speak-to-her" alt="Still from short film Speak To Her, of the character Obafemi in a Dublin nightclub. Directed by Jack Desmond"/>
+    </file>
+    <file name="speak_to_her_short_film_jack_desmond401x226.jpg" crc="3820552071" seo="true" ref="speak-to-her">
+      <caption webpage="speak-to-her" alt="Still from short film Speak To Her, of the character Obafemi in a Dublin nightclub. Directed by Jack Desmond"/>
+    </file>
+    <file name="speak_to_her_short_film_jack_desmond360x203.jpg" crc="3803677973" seo="true" ref="speak-to-her">
+      <caption webpage="speak-to-her" alt="Still from short film Speak To Her, of the character Obafemi in a Dublin nightclub. Directed by Jack Desmond"/>
+    </file>
+    <file name="speak_to_her_short_film_jack_desmond288x162.jpg" crc="435044903" seo="true" ref="speak-to-her">
+      <caption webpage="speak-to-her" alt="Still from short film Speak To Her, of the character Obafemi in a Dublin nightclub. Directed by Jack Desmond"/>
+    </file>
   </folder>
-  <file name="about.html" crc="3864577124" seo="true" mt="1585843487633" redirect="true"/>
+  <file name="about.html" crc="3908141768" seo="true" mt="1588798247602" redirect="true"/>
   <file name="index.html" crc="4006739698" seo="true" mt="1585843487650" redirect="true"/>
   <file name="cinematography.html" crc="3882216708" seo="true" mt="1585843487633" redirect="true"/>
-  <file name="films.html" crc="337513790" seo="true" mt="1585843487633" redirect="true"/>
+  <file name="films.html" crc="425127776" seo="true" mt="1588798600242" redirect="true"/>
   <file name="directing.html" crc="386235916" seo="true" mt="1585843487633" redirect="true"/>
   <file name="photography.html" crc="3965321795" seo="true" mt="1585843487633" redirect="true"/>
   <file name="electric-picnic.html" crc="3924699212" seo="true" mt="1585843487633" redirect="true"/>
-  <file name="berlin--35mm-photography--jack-desmond.html" crc="4058923050" seo="true" mt="1585843487633" redirect="true"/>
+  <file name="berlin--35mm-photography--jack-desmond.html" crc="333834593" seo="true" mt="1588799698996" redirect="true"/>
   <file name="west-cork.html" crc="324526069" seo="true" mt="1585843487633" redirect="true"/>
   <file name="looking-for.html" crc="3980217874" seo="true" mt="1585843487633" redirect="true"/>
-  <file name="alone-spec-ad.html" crc="4209190125" seo="true" mt="1585843487633" redirect="true"/>
+  <file name="alone-spec-ad.html" crc="4115478992" seo="true" mt="1588798794226" redirect="true"/>
   <file name="mount-brandon.html" crc="4129271597" seo="true" mt="1585843487633" redirect="true"/>
   <file name="the-quiet.html" crc="3888497678" seo="true" mt="1585843487633" redirect="true"/>
-  <file name="speak-to-her.html" crc="3940888091" seo="true" mt="1587810517001" redirect="true"/>
+  <file name="speak-to-her.html" crc="434435097" seo="true" mt="1588797809341" redirect="true"/>
   <file name="grandad.html" crc="327054786" seo="true" mt="1585843487633" redirect="true"/>
   <file name="twisted-alchemist.html" crc="3884002158" seo="true" mt="1585843487633" redirect="true"/>
   <file name="gemini-lost-boys-music-video.html" crc="205814836" seo="true" mt="1585843487633" redirect="true"/>
-  <file name="videography.html" crc="4126259116" seo="true" mt="1585843487659" redirect="true"/>
+  <file name="videography.html" crc="3945315270" seo="true" mt="1588797111796" redirect="true"/>
 </manifest>
