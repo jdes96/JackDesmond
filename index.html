@@ -1,199 +1,471 @@
 <!DOCTYPE html>
-<html class="nojs html css_verticalspacer" lang="en-GB">
- <head>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jack Desmond | Freelance Editor & Director</title>
+    <link rel="icon" type="image/svg+xml" href="/images/db-favicon.svg">
+    <link rel="icon" sizes="72x72" href="/images/db-favicon.png">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/blog.css">
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <meta property="og:site_name" content="Jack Desmond">
+    <meta property="og:title" content="Jack Desmond | Freelance Editor & Director">
+    <meta property="og:description" content="Jack Desmond | Freelance Editor & Director">
+    <meta property="og:image" itemprop="image" content="http://desmondbros.ie/images/desmond-bros-tile.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="300">
+    <meta property="og:url" content="https://jackdesmond.com">
 
-  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
-  <meta name="description" content="Jack Desmond is an award winning filmmaker from West Cork.&nbsp; He shoots videos in Cork and Munster, and is available for videography and video production hire. "/>
-  <meta name="keywords" content="videography, videographer, video production Cork, Cork videos, video production, film production Cork, west cork, video production west cork, films, short films, hire a videographer, videography services, promo video, ad videos, ads, adverts, ad producers, commerical, social media video, editing, video editing, video editor, cork video editor, commercial video, Cork videographer, Munster videography, Munster video services, Munster videographer, photography, hire, Jack Desmond, Desmond Bros, Desmond Brothers, imdb, cents, IMDB Jack Desmond, weddings, wedding videographer, wedding video, wedding video cork, jack, desmond, "/>
-  <meta name="generator" content="2018.0.0.379"/>
-  <meta property="og:type" content="website"/><!-- custom meta -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="css/portfolio.css">
+        <link rel="stylesheet" href="css/magnific-popup.css">
+</head>
+
+<script src="https://cdn.plyr.io/3.5.6/plyr.js"></script>
+ <script>
+      document.addEventListener('DOMContentLoaded', () => {
+          const player = Plyr.setup('.js-player');
+      });
+  </script>
+
+<body>
+
+    <header class="sticky">
+        <a href="/index.html#mainpage" class="smoothscroll">
+            <img src="images/jack_desmond_logo.svg" class="logo" alt="Logo">
+        </a>
+        <nav>
+            
+
+            <div class="menuToggle" id="menuToggle">
+                <input type="checkbox" class="toggle" name="menuTog">
+                <span></span>
+                <span></span>
+                <span></span>
+                
+
+                <ul class="hide-mobile" id="nav">
+                    <li><a href="#work" class="smoothscroll">work</a></li>
+                    <li><a href="#about" class="smoothscroll">about</a></li>
+                    <li><a href="#gear" class="smoothscroll">gear</a></li>
+                    <li><a href="#contact" class="smoothscroll">contact</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+ 
+
+    <div class="hero-image" id="mainpage">
+            <div class="home-text">
+                <h1>Freelance <br>Cinematographer & Director.</h1>
+                <div class="social container">
+                    <ul>
+                        <li><a href="http://instagram.com/jackeveli" target="_blank"><img src="/images/instagram.svg"></a></li>
+                        <li><a href="http://youtube.com/desmondbros" target="_blank"><img src="/images/youtube.svg"></a></li>
+                        <li><a href="http://linkedin.com/in/jack-p-desmond" target="_blank"><img src="/images/linkedin.svg"></a></li>
+                    </ul>
+                </div>
+            </div>
+            
+    </div>
+    <section class="showreel" id="showReel">
+
+        <h2>Showreel</h2>
+
+        <div class="js-player" data-plyr-provider="vimeo" data-plyr-embed-id="359842631"></div>
+        <div class="more-text"><p style="text-align: left;">Watch the cinematography showreel of Jack Desmond. Jack Desmond is a cinematographer and director.
+          He is based in Cork, Ireland.</p></div>
+        <div id="more"  class="button">Read more </div>
+        
+
+    
+    </section>
   
-  <script type="text/javascript">
-   // Update the 'nojs'/'js' class on the html node
-document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
+    <section class="block-blue" id="work">
+            <h2 style="padding-top: 70px; text-align: center;">Selected Work</h2>
+            <div class="blog-button-list" id="myBtnContainer">
+                <button class="blog-btn active" onclick="filterSelection('all')"> Show all</button>
+                <button class="blog-btn" onclick="filterSelection('cinematographer')">As Cinematographer</button>
+                <button class="blog-btn" onclick="filterSelection('direct')">As Director</button>
+            </div>
+            <section id="portfolio" class="container">
+                <div class="row-port">
+        
+                <div class="twelve columns collapsed">
+        
+                    <!-- portfolio-wrapper -->
+                    <div id="portfolio-wrapper" class="bgrid-thirds s-bgrid-thirds cf">
+        
+                        <div class="columns portfolio-item blog-column cinematographer">
+                            <div class="item-wrap">
+        
+                            <a href="#modal-01" title="">
+                                <img alt="" src="images/the_quiet_documentary.png">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                        <h5>Cinematographer | "The Quiet"</h5>
+                                        <p>Documentary.</p>
+                                        <img class="icon-plus" src="images/plus-white.svg">
+                                    </div>
+                                </div>
+                            </a>
+        
+                            </div>
+                        </div> <!-- item end -->
 
-// Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "webpro.js", "musewpdisclosure.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
-</script>
+                        <div class="columns portfolio-item blog-column cinematographer">
+                            <div class="item-wrap">
+        
+                            <a href="#modal-02" title="">
+                                <img alt="" src="images/looking-for-03.png">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                        <h5>DoP | "Looking For"</h5>
+                                        <p>Short film. Winner 'Best Short Form', 'Best Cinematography' - Royal Television Society awards ROI 2020.</p>
+                                        <img class="icon-plus" src="images/plus-white.svg">
+                                    </div>
+                                </div>
+                            </a>
+        
+                            </div>
+                        </div> <!-- item end -->
+        
+                        <div class="columns portfolio-item blog-column direct">
+                            <div class="item-wrap">
+        
+                            <a href="#modal-03" title="">
+                                <img alt="" src="images/port-speak-to-her.png">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                            <h5>Director | "Speak to Her"</h5>
+                                        <p>Award-winning short film.</p>
+                                        <img class="icon-plus" src="images/plus-white.svg">
+                                        </div>
+                                </div>
+                            </a>
+        
+                            </div>
+                            </div> <!-- item end -->
+        
+                        <div class="columns portfolio-item blog-column cinematographer">
+                            <div class="item-wrap">
+        
+                            <a href="#modal-04" title="">
+                                <img alt="" src="images/foodybite-01.jpg">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                            <h5>DoP | Foodybite</h5>
+                                        <p>Restaurant app commercial.</p>
+                                        <img class="icon-plus" src="images/plus-white.svg">
+                                        </div>
+                                </div>
+                            </a>
+        
+                            </div>
+                            </div> <!-- item end -->
+        
+                        <div class="columns portfolio-item blog-column cinematographer direct">
+                            <div class="item-wrap">
+        
+                            <a href="#modal-05" title="">
+                                <img alt="" src="images/port-gemini.png">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                            <h5>Cinematographer & Director | Lost Boys - "Gemini"</h5>
+                                        <p>Music Video.</p>
+                                        <img class="icon-plus" src="images/plus-white.svg">
+                                        </div>
+                                </div>
+                            </a>
+        
+                            </div>
+                        </div> <!-- item end -->
+
+                        <div class="columns portfolio-item blog-column edit  direct">
+                            <div class="item-wrap">
+        
+                            <a href="#modal-06" title="">
+                                <img alt="" src="images/wildlife_documentary.jpg">
+                                <div class="overlay">
+                                    <div class="portfolio-item-meta">
+                                            <h5>Cinematographer | "Birds of West Cork"</h5>
+                                        <p>Micro documentary</p>
+                                        <img class="icon-plus" src="images/plus-white.svg">
+                                        </div>
+                                </div>
+                            </a>
+        
+                            </div>
+                        </div> <!-- item end -->
+        
+                        
+        
+                    </div> <!-- portfolio-wrapper end -->
+        
+                </div> <!-- twelve columns end -->
+        
+        
+                <!-- Modal Popup
+                    --------------------------------------------------------------- -->
+        
+                <div id="modal-01" class="popup-modal mfp-hide">
+        
+                        <div class="js-player" data-plyr-provider="vimeo" data-plyr-embed-id="401461307"></div>
+        
+                        <div class="description-box">
+                            <h4>Cinematographer | "The Quiet"</h4>
+                            <p>Documentary directed by Georgia Kelly. Cinematography by Jack Desmond. Edited by Deborah Foy</p>
+                        <span class="categories"><img src="images/tag-black.svg" alt="">Documentary, Factual</span>
+                        </div>
+        
+                    <div class="link-box">
+                        <a class="popup-modal-dismiss">Close</a>
+                    </div>
+        
+                </div><!-- modal-01 End -->
+
+                <div id="modal-02" class="popup-modal mfp-hide">
+        
+                        <div class="js-player" data-plyr-provider="youtube" data-plyr-embed-id="Oodm57M45Nc"></div>
+        
+                        <div class="description-box">
+                            <h4>Director of Photography | "Looking For"</h4>
+                            <p>Short film. Winner 'Best Short Form', 'Best Cinematography' - Royal Television Society awards ROI 2020. Written and directed by Cian Desmond. Cinematography by Jack Desmond.</p>
+                        <span class="categories"><img src="images/tag-black.svg" alt="">Film</span>
+                        </div>
+        
+                    <div class="link-box">
+                        <a class="popup-modal-dismiss">Close</a>
+                    </div>
+        
+                </div><!-- modal-01 End -->
+        
+                <div id="modal-03" class="popup-modal mfp-hide">
+        
+                    <div class="js-player" data-plyr-provider="youtube" data-plyr-embed-id="nrsNZPvBTBw"></div>
+        
+                        <div class="description-box">
+                            <h4>Director | "Speak to Her" | Short Film</h4>
+                            <p> Directed by Jack Desmond. Written by Jack Desmond and Philip Emo. Cinematography by Sean Doupe. Edited by Cian Desmond</p>
+                       <p>Winner Best Short Form, Best Writing, Royal Television Society awards ROI 2020.</p>
+                            <span class="categories"><img src="images/tag-black.svg" alt="">Short film</span>
+                        </div>
+        
+                    <div class="link-box">
+                        <a href="https://iadt.ie/news/award-winning-iadt-short-film-speak-to-her-released-online/" target="_blank">Details</a>
+                        <a class="popup-modal-dismiss">Close</a>
+                    </div>
+        
+                    </div><!-- modal-02 End -->
+        
+                <div id="modal-04" class="popup-modal mfp-hide">
+                        <div class="js-player" data-plyr-provider="youtube" data-plyr-embed-id="ztehkVzUJW8"></div>
+        
+                        <div class="description-box">
+                            <h4>DoP | Foodybite</h4>
+                            <p>Restaurant app commercial. Edited and voiceover by Cian Desmond. Videography by Jack Desmond</p>
+                        <span class="categories"><img src="images/tag-black.svg" alt="">App, Commercial, Online, Corporate</span>
+                        </div>
+        
+                    <div class="link-box">
+                        <a class="popup-modal-dismiss">Close</a>
+                    </div>
+        
+                    </div><!-- modal-03 End -->
+        
+                <div id="modal-05" class="popup-modal mfp-hide">
+        
+                        <div class="js-player" data-plyr-provider="youtube" data-plyr-embed-id="ryejKHMc22U"></div>
+        
+                        <div class="description-box">
+                            <h4>Director and DoP | Lost Boys - "Gemini"</h4>
+                            <p>Directed & cinematography by Jack Desmond. Edited by Cian Desmond.</p>
+                        <span class="categories"><img src="images/tag-black.svg" alt="">Music Video</span>
+                        </div>
+        
+                    <div class="link-box">
+                        <a href="http://www.jackdesmond.com/gemini-lost-boys-music-video.html" target="_blank">Read more</a>
+                        <a class="popup-modal-dismiss">Close</a>
+                    </div>
+        
+                    </div><!-- modal-04 End -->
+        
+        
+                </div> <!-- row End -->
+
+                <div id="modal-06" class="popup-modal mfp-hide">
+        
+                    <div class="js-player" data-plyr-provider="youtube" data-plyr-embed-id="ZEw0fdNfNjc"></div>
+    
+                    <div class="description-box">
+                        <h4>Cinematograper | "Birds Of West Cork" Micro Documentary</h4>
+                        <p>Micro documentary on local wildlife.</p>
+                    <span class="categories"><img src="images/tag-black.svg" alt="">Documentary, Factual</span>
+                    </div>
+    
+                <div class="link-box">
+                    
+                    <a class="popup-modal-dismiss">Close</a>
+                </div>
+    
+                </div><!-- modal-04 End -->
+    
+    
+            </div> <!-- row End -->
+
+            </section>
+            <p style="text-align: center; font-size: small; padding-top: 7em; margin-bottom: -15em;">CINEMATOGRAPHER | VIDEOGRAPHER | JACK DESMOND | FILM | DOP | CORK | MUNSTER | IRELAND</p>
+
+    </section>  
+
+   
+        
+    <section class="block-blue"  id="about"> 
+                        <div class="container">
+                            <h2 style="text-align: left; padding-left: 0.25em; padding-top: 70px;">About</h2>
+                            <p>Jack Desmond is a filmmaker from Cork. He studied at the National Film School, after making short films as a teenager.
+
+                                He has directed, written and shot award winning short films.
+                                
+                                His film "Speak To Her" has been screened across Europe. It won awards including 'Best Short Form (ROI)' and 'Best Writing' at the Royal Television Society Awards 2019 in London, which covered the best student films in the UK and Ireland. He was awarded 'Best Cinematography' by the Royal Television Society awards in 2020.</p>
+                            <p>He co-founded the Irish creative video agency Desmond Bros Media, which specialises in digital creativity. <a href="http://desmondbros.ie" target="_blank">desmondbros.ie</a></p> 
+                            <h4 style="text-transform: uppercase; font-size: 1.1em; margin-bottom: 0px; margin-top: 3em; text-align: left;">Achievements</h4>
+                            <p>Winner, Best Camerawork - Royal Television Society ROI awards 2020 - Cinematographer, "Looking For".</p>
+
+                            <p> Winner, Best Short Form - Royal Television Society ROI awards 2019 - Director & Co-writer "Speak to Her"</p>
+                                
+                            <p> Highly Commended - Cinemagic Film Festival 2019 - Director & Co-writer "Speak to Her"</p>
+                                
+                            <p>Shortlisted, Best Student Film - Fastnet Film Festival 2019 - Director & Co-writer "Speak to Her" </p>
+                            
+                        </div>
+                        
+    </section>
+
+    <section class="showreel container" id="gear">
+
+        <h2>Gear</h2>
+        <p>Z Cam E2-F6 Full frame 6K cinema camera</p>
+        <p>Blackmagic Ursa Mini 4K</p>
+
+        <p>    Sigma Art 18-35mm</p>
+        <p>Variety of vintage lenses</p>
+            
+        <p>   Sony a6300 (for B-Cam and stills)</p>
+
+        <p>Ronin S gimbal</p>
+            
+        <p>    LED lights, camera accessories and other extras</p>
+        <hr style="width: 50%; height: 1px; border: none; color: #333; background-color: #333; margin-top: 50px;">
+    </section>
   
-  <link rel="shortcut icon" href="images/jack-desmond-favicon.ico?crc=4244510046"/>
-  <title>Jack Desmond | Cinematographer and Director</title>
-  <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4142734519"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4275982985"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4213769591" id="pagesheet"/>
-  <!-- IE-only CSS -->
-  <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=4123869068"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=146727871" id="nomq_pagesheet"/>
-  <![endif]-->
-  <!-- Other scripts -->
-  <script type="text/javascript">
-   var __adobewebfontsappname__ = "muse";
-</script>
-  <!-- JS includes -->
-  <script src="https://webfonts.creativecloud.com/cutive:n4:default;muli:n4:default;pt-sans:n7:default.js" type="text/javascript"></script>
-    <!--custom head HTML-->
-  <meta property="og:site_name" content="Jack Desmond">
-<meta property="og:title" content="Jack Desmond | Cinematographer">
-<meta property="og:description" content="Director and Cinematographer based in Cork">
 
-<meta property="og:image" itemprop="image" content="http://jackdesmond.com/images/1_img00015.jpg">
+    
+    <section class="block-white" id="contact">
+            <h3>Let's work together.</h3>
+            <p style="text-align: center;">Send me an email about your project.</p>
+            <h4><a href="mailto:jackdesmondmedia@gmail.com"><img src="/images/email.svg" alt="" style="width: 30px; vertical-align: middle; margin-right: 10px;">jackdesmondmedia@gmail.com</a> </h4>
 
-<meta property="og:image:type" content="image/jpeg">
 
-<meta property="og:image:width" content="300">
-<meta property="og:image:height" content="300">
-  <!--HTML Widget code-->
-  
-<style type="text/css">#u15197.size_fluid_width_height iframe { position:absolute; left:0; top:0; }</style>
+    </section>
 
- </head>
- <body>
 
-  <div class="breakpoint active" id="bp_infinity" data-min-width="680"><!-- responsive breakpoint node -->
-   <div class="clearfix borderbox" id="page"><!-- group -->
-    <div class="clearfix grpelem" id="ppu2618-4"><!-- column -->
-     <div class="clearfix colelem" id="pu2618-4"><!-- group -->
-      <a class="nonblock nontext transition clearfix grpelem" id="u2618-4" href="films.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p id="u2618-2">FILMS</p></a>
-      <a class="nonblock nontext transition clearfix grpelem" id="u2607-6" href="videography.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p id="u2607-2">COMMERCIAL</p><p id="u2607-4">WORK</p></a>
-      <a class="nonblock nontext transition clearfix grpelem" id="u2606-4" href="photography.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p id="u2606-2">PHOTOGRAPHY</p></a>
-      <a class="nonblock nontext transition clearfix grpelem" id="u2605-4" href="about.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p id="u2605-2">ABOUT</p></a>
-     </div>
-     <a class="nonblock nontext MuseLinkActive clearfix colelem shared_content" id="u15169-4" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="u15169-4_content"><!-- content --><h1 id="u15169-2">Jack Desmond</h1></a>
-     <div class="browser_width colelem shared_content" id="u15197-bw" data-content-guid="u15197-bw_content">
-      <div class="size_browser_width" id="u15197"><!-- custom html -->
-       
-    <iframe class="actAsDiv" style="width:100%;height:100%;" src="//player.vimeo.com/video/359842631?title=0&amp;byline=0&amp;portrait=0&amp;color=DE9020&amp;autoplay=0&amp;loop=0&amp;wmode=transparent" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-      </div>
-     </div>
-     <a class="nonblock nontext MuseLinkActive clearfix colelem" id="u15170-4" href="index.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><h1 id="u15170-2" class="shared_content" data-content-guid="u15170-2_content">cinematographer</h1></a>
+    <div class="footer">
+        <div class="social">
+            <ul>
+                <li><a href="http://instagram.com/jackeveli" target="_blank"><img src="/images/instagram-white.svg"></a></li>
+                <li><a href="http://youtube.com/desmondbros" target="_blank"><img src="/images/youtube-white.svg"></a></li>
+                <li><a href="http://linkedin.com/in/jack-p-desmond" target="_blank"><img src="/images/linkedin-white.svg"></a></li>
+            </ul>
+        </div>
+        
+        <div class="copyright">
+            <p style="color: white; font-size: small; font-weight: 300;">&copy; 2020</p>
+            <p style="color: white; font-size: small; font-weight: 300;">Website design by Cian Desmond.</p>
+        </div>
     </div>
-    <div class="verticalspacer" data-offset-top="624" data-content-above-spacer="619" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
-    <div class="browser_width grpelem" id="u15224-bw">
-     <div id="u15224"><!-- group -->
-      <div class="clearfix" id="u15224_align_to_page">
-       <a class="nonblock nontext clearfix grpelem shared_content" id="u15231-4" href="mailto:jackdesmondmedia@gmail.com" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="u15231-4_content"><!-- content --><p id="u15231-2">jackdesmondmedia@gmail.com</p></a>
-       <a class="nonblock nontext rounded-corners clip_frame grpelem" id="u15225" href="https://instagram.com/jackeveli" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter"><!-- image --><img class="block temp_no_img_src" id="u15225_img" data-orig-src="images/icons8-instagram-50.png?crc=469895057" alt="" data-heightwidthratio="1" data-image-width="33" data-image-height="33" src="images/blank.gif?crc=4208392903"/></a>
-       <a class="nonblock nontext rounded-corners clip_frame grpelem" id="u15227" href="https://linkedin.com/in/jack-p-desmond" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter"><!-- image --><img class="block temp_no_img_src" id="u15227_img" data-orig-src="images/icons8-linkedin-50.png?crc=232328558" alt="" data-heightwidthratio="1" data-image-width="33" data-image-height="33" src="images/blank.gif?crc=4208392903"/></a>
-       <a class="nonblock nontext rounded-corners clip_frame grpelem" id="u15229" href="https://twitter.com/desmondbros" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter"><!-- image --><img class="block temp_no_img_src" id="u15229_img" data-orig-src="images/icons8-twitter-squared-50.png?crc=4264020858" alt="" data-heightwidthratio="1" data-image-width="33" data-image-height="33" src="images/blank.gif?crc=4208392903"/></a>
-      </div>
-     </div>
-    </div>
-   </div>
-  </div>
-  <div class="breakpoint" id="bp_679" data-min-width="401" data-max-width="679"><!-- responsive breakpoint node -->
-   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <div class="clearfix grpelem" id="paccordionu7368"><!-- column -->
-     <div class="browser_width colelem" id="accordionu7368-bw">
-      <ul class="AccordionWidget clearfix" id="accordionu7368" data-visibility="changed" style="visibility:hidden"><!-- vertical box -->
-       <li class="AccordionPanel clearfix colelem100" id="u7369"><!-- vertical box --><div class="AccordionPanelTab transition museBGSize clearfix colelem100" id="u7375-3" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p class="shared_content" data-content-guid="u7375-3_0_content">&nbsp;</p></div><div class="AccordionPanelContent disn clearfix colelem100" id="u7370"><!-- column --><a class="nonblock nontext transition clearfix colelem" id="u7371-4" href="films.html" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="shared_content" data-content-guid="u7371-4_0_content">FILMS</p></a><a class="nonblock nontext transition clearfix colelem" id="u7374-4" href="videography.html" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="shared_content" data-content-guid="u7374-4_0_content">COMMERCIAL</p></a><a class="nonblock nontext transition clearfix colelem" id="u7373-4" href="photography.html" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="shared_content" data-content-guid="u7373-4_0_content">PHOTOGRAPHY</p></a><a class="nonblock nontext transition clearfix colelem" id="u7372-4" href="about.html" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p class="shared_content" data-content-guid="u7372-4_0_content">ABOUT</p></a></div></li>
-      </ul>
-     </div>
-     <span class="nonblock nontext MuseLinkActive clearfix colelem placeholder" data-placeholder-for="u15169-4_content"><!-- placeholder node --></span>
-     <span class="browser_width colelem placeholder" data-placeholder-for="u15197-bw_content"><!-- placeholder node --></span>
-     <a class="nonblock nontext MuseLinkActive clearfix colelem temp_no_id" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u15170-4"><!-- content --><span class="placeholder" data-placeholder-for="u15170-2_content"><!-- placeholder node --></span></a>
-    </div>
-    <div class="verticalspacer" data-offset-top="585" data-content-above-spacer="585" data-content-below-spacer="82" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
-    <div class="browser_width grpelem temp_no_id" data-orig-id="u15224-bw">
-     <div class="temp_no_id" data-orig-id="u15224"><!-- group -->
-      <div class="clearfix temp_no_id" data-orig-id="u15224_align_to_page">
-       <span class="nonblock nontext clearfix grpelem placeholder" data-placeholder-for="u15231-4_content"><!-- placeholder node --></span>
-       <a class="nonblock nontext rounded-corners clip_frame grpelem temp_no_id" href="https://instagram.com/jackeveli" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter" data-orig-id="u15225"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/icons8-instagram-50.png?crc=469895057" alt="" data-heightwidthratio="1" data-image-width="47" data-image-height="47" data-orig-id="u15225_img" src="images/blank.gif?crc=4208392903"/></a>
-       <a class="nonblock nontext rounded-corners clip_frame grpelem temp_no_id" href="https://linkedin.com/in/jack-p-desmond" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter" data-orig-id="u15227"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/icons8-linkedin-50.png?crc=232328558" alt="" data-heightwidthratio="1" data-image-width="47" data-image-height="47" data-orig-id="u15227_img" src="images/blank.gif?crc=4208392903"/></a>
-       <a class="nonblock nontext rounded-corners clip_frame grpelem temp_no_id" href="https://twitter.com/desmondbros" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter" data-orig-id="u15229"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/icons8-twitter-squared-50.png?crc=4264020858" alt="" data-heightwidthratio="1" data-image-width="47" data-image-height="47" data-orig-id="u15229_img" src="images/blank.gif?crc=4208392903"/></a>
-      </div>
-     </div>
-    </div>
-   </div>
-   <div class="preload_images">
-    <img class="preload temp_no_img_src" data-orig-src="images/x-mark_yellow.png?crc=3987643854" alt="" src="images/blank.gif?crc=4208392903"/>
-   </div>
-  </div>
-  <div class="breakpoint" id="bp_400" data-min-width="321" data-max-width="400"><!-- responsive breakpoint node -->
-   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <div class="clearfix grpelem temp_no_id" data-orig-id="paccordionu7368"><!-- column -->
-     <div class="browser_width colelem temp_no_id" data-orig-id="accordionu7368-bw">
-      <ul class="AccordionWidget clearfix temp_no_id" data-visibility="changed" style="visibility:hidden" data-orig-id="accordionu7368"><!-- vertical box -->
-       <li class="AccordionPanel clearfix colelem100 temp_no_id" data-orig-id="u7369"><!-- vertical box --><div class="AccordionPanelTab transition museBGSize clearfix colelem100 temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u7375-3"><!-- content --><span class="placeholder" data-placeholder-for="u7375-3_0_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn clearfix colelem100 temp_no_id" data-orig-id="u7370"><!-- column --><a class="nonblock nontext transition clearfix colelem temp_no_id" href="films.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u7371-4"><!-- content --><span class="placeholder" data-placeholder-for="u7371-4_0_content"><!-- placeholder node --></span></a><a class="nonblock nontext transition clearfix colelem temp_no_id" href="videography.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u7374-4"><!-- content --><span class="placeholder" data-placeholder-for="u7374-4_0_content"><!-- placeholder node --></span></a><a class="nonblock nontext transition clearfix colelem temp_no_id" href="photography.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u7373-4"><!-- content --><span class="placeholder" data-placeholder-for="u7373-4_0_content"><!-- placeholder node --></span></a><a class="nonblock nontext transition clearfix colelem temp_no_id" href="about.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u7372-4"><!-- content --><span class="placeholder" data-placeholder-for="u7372-4_0_content"><!-- placeholder node --></span></a></div></li>
-      </ul>
-     </div>
-     <span class="nonblock nontext MuseLinkActive clearfix colelem placeholder" data-placeholder-for="u15169-4_content"><!-- placeholder node --></span>
-     <span class="browser_width colelem placeholder" data-placeholder-for="u15197-bw_content"><!-- placeholder node --></span>
-     <a class="nonblock nontext MuseLinkActive clearfix colelem temp_no_id" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u15170-4"><!-- content --><span class="placeholder" data-placeholder-for="u15170-2_content"><!-- placeholder node --></span></a>
-    </div>
-    <div class="verticalspacer" data-offset-top="423" data-content-above-spacer="458" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
-    <div class="browser_width grpelem temp_no_id" data-orig-id="u15224-bw">
-     <div class="temp_no_id" data-orig-id="u15224"><!-- group -->
-      <div class="clearfix temp_no_id" data-orig-id="u15224_align_to_page">
-       <span class="nonblock nontext clearfix grpelem placeholder" data-placeholder-for="u15231-4_content"><!-- placeholder node --></span>
-       <a class="nonblock nontext rounded-corners clip_frame grpelem temp_no_id" href="https://instagram.com/jackeveli" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter" data-orig-id="u15225"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/icons8-instagram-50.png?crc=469895057" alt="" data-heightwidthratio="1" data-image-width="28" data-image-height="28" data-orig-id="u15225_img" src="images/blank.gif?crc=4208392903"/></a>
-       <a class="nonblock nontext rounded-corners clip_frame grpelem temp_no_id" href="https://linkedin.com/in/jack-p-desmond" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter" data-orig-id="u15227"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/icons8-linkedin-50.png?crc=232328558" alt="" data-heightwidthratio="1" data-image-width="28" data-image-height="28" data-orig-id="u15227_img" src="images/blank.gif?crc=4208392903"/></a>
-       <a class="nonblock nontext rounded-corners clip_frame grpelem temp_no_id" href="https://twitter.com/desmondbros" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter" data-orig-id="u15229"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/icons8-twitter-squared-50.png?crc=4264020858" alt="" data-heightwidthratio="1" data-image-width="28" data-image-height="28" data-orig-id="u15229_img" src="images/blank.gif?crc=4208392903"/></a>
-      </div>
-     </div>
-    </div>
-   </div>
-   <div class="preload_images">
-    <img class="preload temp_no_img_src" data-orig-src="images/x-mark_yellow.png?crc=3987643854" alt="" src="images/blank.gif?crc=4208392903"/>
-   </div>
-  </div>
-  <div class="breakpoint" id="bp_320" data-max-width="320"><!-- responsive breakpoint node -->
-   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <div class="clearfix grpelem temp_no_id" data-orig-id="paccordionu7368"><!-- column -->
-     <ul class="AccordionWidget clearfix colelem temp_no_id" data-visibility="changed" style="visibility:hidden" data-orig-id="accordionu7368"><!-- vertical box -->
-      <li class="AccordionPanel clearfix colelem temp_no_id" data-orig-id="u7369"><!-- vertical box --><div class="AccordionPanelTab transition museBGSize clearfix colelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u7375-3"><!-- content --><span class="placeholder" data-placeholder-for="u7375-3_0_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn clearfix colelem temp_no_id" data-orig-id="u7370"><!-- column --><a class="nonblock nontext transition clearfix colelem temp_no_id" href="films.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u7371-4"><!-- content --><span class="placeholder" data-placeholder-for="u7371-4_0_content"><!-- placeholder node --></span></a><a class="nonblock nontext transition clearfix colelem temp_no_id" href="videography.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u7374-4"><!-- content --><span class="placeholder" data-placeholder-for="u7374-4_0_content"><!-- placeholder node --></span></a><a class="nonblock nontext transition clearfix colelem temp_no_id" href="photography.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u7373-4"><!-- content --><span class="placeholder" data-placeholder-for="u7373-4_0_content"><!-- placeholder node --></span></a><a class="nonblock nontext transition clearfix colelem temp_no_id" href="about.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u7372-4"><!-- content --><span class="placeholder" data-placeholder-for="u7372-4_0_content"><!-- placeholder node --></span></a></div></li>
-     </ul>
-     <span class="nonblock nontext MuseLinkActive clearfix colelem placeholder" data-placeholder-for="u15169-4_content"><!-- placeholder node --></span>
-     <span class="browser_width colelem placeholder" data-placeholder-for="u15197-bw_content"><!-- placeholder node --></span>
-     <a class="nonblock nontext MuseLinkActive clearfix colelem temp_no_id" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-orig-id="u15170-4"><!-- content --><span class="placeholder" data-placeholder-for="u15170-2_content"><!-- placeholder node --></span></a>
-    </div>
-    <div class="verticalspacer" data-offset-top="459" data-content-above-spacer="458" data-content-below-spacer="118" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
-    <div class="browser_width grpelem temp_no_id" data-orig-id="u15224-bw">
-     <div class="temp_no_id" data-orig-id="u15224"><!-- group -->
-      <div class="clearfix temp_no_id" data-orig-id="u15224_align_to_page">
-       <div class="clearfix grpelem" id="pu15225"><!-- group -->
-        <a class="nonblock nontext rounded-corners clip_frame grpelem temp_no_id" href="https://instagram.com/jackeveli" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter" data-orig-id="u15225"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/icons8-instagram-50.png?crc=469895057" alt="" data-heightwidthratio="1" data-image-width="22" data-image-height="22" data-orig-id="u15225_img" src="images/blank.gif?crc=4208392903"/></a>
-        <span class="nonblock nontext clearfix grpelem placeholder" data-placeholder-for="u15231-4_content"><!-- placeholder node --></span>
-       </div>
-       <a class="nonblock nontext rounded-corners clip_frame grpelem temp_no_id" href="https://linkedin.com/in/jack-p-desmond" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter" data-orig-id="u15227"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/icons8-linkedin-50.png?crc=232328558" alt="" data-heightwidthratio="1" data-image-width="22" data-image-height="22" data-orig-id="u15227_img" src="images/blank.gif?crc=4208392903"/></a>
-       <a class="nonblock nontext rounded-corners clip_frame grpelem temp_no_id" href="https://twitter.com/desmondbros" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter" data-orig-id="u15229"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/icons8-twitter-squared-50.png?crc=4264020858" alt="" data-heightwidthratio="1" data-image-width="22" data-image-height="22" data-orig-id="u15229_img" src="images/blank.gif?crc=4208392903"/></a>
-      </div>
-     </div>
-    </div>
-   </div>
-   <div class="preload_images">
-    <img class="preload temp_no_img_src" data-orig-src="images/x-mark_yellow.png?crc=3987643854" alt="" src="images/blank.gif?crc=4208392903"/>
-   </div>
-  </div>
-  <!-- Other scripts -->
-  <script type="text/javascript">
-   // Decide weather to suppress missing file error or not based on preference setting
-var suppressMissingFileError = false
-</script>
-  <script type="text/javascript">
-   window.Muse.assets.check=function(d){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},c=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
-16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
-l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
-f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
-setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musepolyfill.bgsize","webpro","musewpdisclosure","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
-window.Muse.assets.check($);/* body */
-Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
-Muse.Utils.prepHyperlinks(true);/* body */
-Muse.Utils.resizeHeight('.browser_width');/* resize height */
-Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
-Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
-Muse.Utils.initWidget('#accordionu7368', ['#bp_679', '#bp_400', '#bp_320'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu7368 */
-Muse.Utils.fullPage('#page');/* 100% height page */
-$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
-Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
-}catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 
-</script>
-  <!-- RequireJS script -->
-  <script src="scripts/require.js?crc=4157109226" type="text/javascript" async data-main="scripts/museconfig.js?crc=380897831" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
-   </body>
+    <script>
+                filterSelection("all") // Execute the function and show all columns
+        function filterSelection(c) {
+        var x, i;
+        x = document.getElementsByClassName("blog-column");
+        if (c == "all") c = "";
+        // Add the "show" class (display:block) to the filtered elements, and remove the "show" class from the elements that are not selected
+        for (i = 0; i < x.length; i++) {
+            w3RemoveClass(x[i], "blog-show");
+            if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "blog-show");
+        }
+        }
+
+        // Show filtered elements
+        function w3AddClass(element, name) {
+        var i, arr1, arr2;
+        arr1 = element.className.split(" ");
+        arr2 = name.split(" ");
+        for (i = 0; i < arr2.length; i++) {
+            if (arr1.indexOf(arr2[i]) == -1) {
+            element.className += " " + arr2[i];
+            }
+        }
+        }
+
+        // Hide elements that are not selected
+        function w3RemoveClass(element, name) {
+        var i, arr1, arr2;
+        arr1 = element.className.split(" ");
+        arr2 = name.split(" ");
+        for (i = 0; i < arr2.length; i++) {
+            while (arr1.indexOf(arr2[i]) > -1) {
+            arr1.splice(arr1.indexOf(arr2[i]), 1);
+            }
+        }
+        element.className = arr1.join(" ");
+        }
+
+        // Add active class to the current button (highlight it)
+        var btnContainer = document.getElementById("myBtnContainer");
+        var btns = btnContainer.getElementsByClassName("blog-btn");
+        for (var i = 0; i < btns.length; i++) {
+        btns[i].addEventListener("click", function(){
+            var current = document.getElementsByClassName("active");
+            current[0].className = current[0].className.replace(" active", "");
+            this.className += " active";
+        });
+        }
+    </script>
+
+    <script>$('#more').click(function(e) {
+        e.stopPropagation();
+        $('.more-text').css({
+            'height': 'auto'
+        })
+    });
+    
+    $(document).click(function() {
+        $('.more-text').css({
+            'height': '50px'
+            
+        })
+    });
+
+    
+
+
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="js/magnific-popup.js"></script>
+    <script src="js/init.js"></script>
+
+    <script>
+        $('#menuToggle li a').on('click', function(){
+            $('.menuToggle input[name="menuTog"]').prop('checked', false);
+        });
+    </script>
+
+</body>
 </html>
