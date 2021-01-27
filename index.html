@@ -33,8 +33,8 @@
 <body>
 
     <header class="sticky">
-        <a href="/index.html#mainpage" class="smoothscroll">
-            <img src="images/jack_desmond_logo.svg" class="logo" alt="Logo">
+        <a href="/index.html#mainpage" class="smoothscroll logo">
+            <img src="images/jack_desmond_logo.svg" alt="Logo">
         </a>
         <nav>
             
@@ -47,6 +47,7 @@
                 
 
                 <ul class="hide-mobile" id="nav">
+                    <li><a href="#mainpage" class="smoothscroll">showreel</a></li>
                     <li><a href="#work" class="smoothscroll">work</a></li>
                     <li><a href="#about" class="smoothscroll">about</a></li>
                     <li><a href="#gear" class="smoothscroll">gear</a></li>
@@ -57,46 +58,36 @@
     </header>
  
 
-    <div class="hero-image" id="mainpage">
+    <div class="block-blue" id="mainpage">
             <div class="home-text">
-                <h1>Freelance <br>Cinematographer & Director.</h1>
-                <div class="social container">
-                    <ul>
-                        <li><a href="http://instagram.com/jackeveli" target="_blank"><img src="/images/instagram.svg"></a></li>
-                        <li><a href="http://youtube.com/desmondbros" target="_blank"><img src="/images/youtube.svg"></a></li>
-                        <li><a href="http://linkedin.com/in/jack-p-desmond" target="_blank"><img src="/images/linkedin.svg"></a></li>
-                    </ul>
-                </div>
+                <h1>Cinematographer & Director</h1>
+                <div class="showreel" id="showReel">
+           
+                    <div class="js-player" data-plyr-provider="youtube" data-plyr-embed-id="bzr-BtzkJVs"></div>
+                    <div><p style="text-align: center;">Jack Desmond is a cinematographer and director, based in Cork, Ireland.</p></div>
+                    
+            
+                
+                    </div>
             </div>
             
     </div>
-    <section class="showreel" id="showReel">
-
-        <h2>Showreel</h2>
-
-        <div class="js-player" data-plyr-provider="vimeo" data-plyr-embed-id="359842631"></div>
-        <div class="more-text"><p style="text-align: left;">Watch the cinematography showreel of Jack Desmond. Jack Desmond is a cinematographer and director.
-          He is based in Cork, Ireland.</p></div>
-        <div id="more"  class="button">Read more </div>
-        
-
-    
-    </section>
+  
   
     <section class="block-blue" id="work">
-            <h2 style="padding-top: 70px; text-align: center;">Selected Work</h2>
+            <h2 style="padding-top: 90px; text-align: center;">Selected Work</h2>
             <div class="blog-button-list" id="myBtnContainer">
                 <button class="blog-btn active" onclick="filterSelection('all')"> Show all</button>
                 <button class="blog-btn" onclick="filterSelection('cinematographer')">As Cinematographer</button>
                 <button class="blog-btn" onclick="filterSelection('direct')">As Director</button>
             </div>
-            <section id="portfolio" class="container">
+            <section class="container" id="portfolio">
                 <div class="row-port">
         
                 <div class="twelve columns collapsed">
         
                     <!-- portfolio-wrapper -->
-                    <div id="portfolio-wrapper" class="bgrid-thirds s-bgrid-thirds cf">
+                    <div id="portfolio-wrapper" class="bgrid-halves s-bgrid-halves cf">
         
                         <div class="columns portfolio-item blog-column cinematographer">
                             <div class="item-wrap">
@@ -323,7 +314,6 @@
    
         
     <section class="block-blue"  id="about"> 
-                        <div class="container">
                             <h2 style="text-align: left; padding-left: 0.25em; padding-top: 70px;">About</h2>
                             <p>Jack Desmond is a filmmaker from Cork. He studied at the National Film School, after making short films as a teenager.
 
@@ -340,13 +330,13 @@
                                 
                             <p>Shortlisted, Best Student Film - Fastnet Film Festival 2019 - Director & Co-writer "Speak to Her" </p>
                             
-                        </div>
+                    
                         
     </section>
 
     <section class="showreel container" id="gear">
 
-        <h2>Gear</h2>
+        <h2 style="padding-top: 90px; text-align: center;">Gear</h2>
         <p>Z Cam E2-F6 Full frame 6K cinema camera</p>
         <p>Blackmagic Ursa Mini 4K</p>
 
