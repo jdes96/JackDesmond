@@ -58,7 +58,7 @@ h4 a:hover{
 
 h4 {
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: 300;
     padding-left: 0.5em;
 }
@@ -87,10 +87,22 @@ ul {
     margin-left: 0.2em;
 }
 
+.container#portfolio {
+    padding: 0;
+    margin: 2em auto 0 auto;
+    max-width: 1200px;
+}
+
 .logo {
     height: 20px;
     margin-top: 30px;
     margin-left: 50px;
+    z-index: 51;
+    
+}
+
+.logo img {
+    height: 20px;
     
 }
 
@@ -502,9 +514,9 @@ li .img-right {
 .showreel {
     background: #fcfcff;
     color: black;
-    padding-bottom: 10em;
+    padding-bottom: 0em;
     text-align: center;
-    padding-top:7em;
+    padding-top:0em;
     
 
 }
@@ -569,10 +581,19 @@ li .img-right {
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: 100%;
-  
-
 }
 
+.block-blue#work {
+    padding: 0 0 15em 0;
+    margin:  0;
+}
+
+.block-blue#about {
+    margin: 0 auto 0 auto;
+    max-width: 700px;
+    padding: 0 20px 0 20px;
+        
+}
 
 
 .block-blue-inner {
@@ -786,7 +807,7 @@ li .img-right {
     background-size: 50%;
 }
 
-#about .container {
+#about.container {
     margin-bottom: 7em;
 }
 
@@ -851,7 +872,7 @@ li .img-right {
     text-align: center;
     color: black;
     z-index:1;
-    padding-top: 150px;
+    padding-top: 0px;
 }
 
 
@@ -1061,9 +1082,9 @@ li .img-right {
     .block-blue#process {
         background-size: 50%;
         background-position: left bottom;
-      
-    
     }
+
+    
 
     .block-photo1 ul {
         margin-top: 7em;
@@ -1228,6 +1249,19 @@ li .img-right {
         
     }
 
+    .logo img {
+        height: 30px;
+    }
+
+    .home-text {
+        position: relative;
+        text-align: center;
+        color: black;
+        z-index:1;
+        padding-top: 20px;
+    }
+
+
     
 }
 
@@ -1279,15 +1313,15 @@ li .img-right {
 
     nav ul li {
         float: left;
+        margin: 0 50px 0;
     }
 
     nav ul li a {
         color: black;
         background-color: inherit;
         text-align: left;
-        padding-right: 5em;
-        margin-right: 0em;
-        width: 1em;
+        padding: 0;
+        width: 100%;
     }
 
     nav ul li a:hover {
@@ -1327,11 +1361,9 @@ li .img-right {
 
     .showreel {
         color: black;
-        padding-bottom: 5em;
+        padding-bottom: 0em;
         text-align: center;
-        padding-top: 6em;
-        padding-left: 20%;
-        padding-right: 20%;
+        padding: 0 30% 0 30%;
         
     
     }
@@ -1414,7 +1446,7 @@ li .img-right {
   .social ul li {
     display: inline-block;
     padding-right: 5px !important;
-    margin-inline: 2em;
+    margin: 2em;
     width: 40px;
   }
 
