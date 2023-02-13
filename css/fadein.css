@@ -1,0 +1,21 @@
+section {
+    opacity: 0;
+    transform: translate(0, 20px); transition: all 1.5s;
+}
+    
+section.visible {
+    opacity: 1;
+    transform: translate(0, 0); 
+}
+
+
+/*I put this  in made css to apply universally
+.heroFade {
+    animation: fadein 2s;
+  }
+  @keyframes fadein {
+    from { opacity: 0}
+    to   { opacity: 1}
+  }
+*/
+
