@@ -1314,6 +1314,7 @@ img#subhero-1 {
     text-align: center;
     bottom: 40%;
     color: #fff;
+    text-shadow: 1px 2px 5px rgba(0,0,0,0.8);
     z-index: 1;
     padding-bottom: 0;
     margin-bottom: 0;
@@ -1591,7 +1592,10 @@ img#subhero-1 {
     height: 100vh;
     background-position: center;
     text-align: center;
-    top: 0;
+}
+
+.hero-image-template.lower-hero {
+   margin-top: 80px;
 }
 
 .show-mobile {
@@ -2194,7 +2198,7 @@ a.card-link:hover .card {
     }
 
     .container-home {
-        margin: 0 auto 0 auto;
+        margin: 80px auto 0 auto;
         max-width: 800px;
     }
 
@@ -2432,6 +2436,11 @@ a.card-link:hover .card {
     .logo-box::before {
         width: 280px;
     }
+
+    .hero-image-template.lower-hero {
+        background-size: contain;
+        margin-top: 90px;
+     }
       
 
     
