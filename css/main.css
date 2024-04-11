@@ -1,11 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Overpass');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,900italic,900,700italic,700,600italic,600,400italic,300italic,300,200italic');
 
+:root {
+    --primary-colour: #1F4D7A;
+    --secondary-colour: black;
+    --highlight-colour: #D62828;
+    --white-colour: white;
+    --black-colour: black;
+    --primary-font: 'Work Sans';
+    --secondary-font: 'Work Sans';
+  }
 
+  ::selection {
+    background: var(--secondary-colour);
+  }
 
 body  {
     margin: 0;
-    font-family: 'Overpass', 'Source Sans Pro', sans-serif;
+    font-family: 'Work Sans', 'Source Sans Pro', sans-serif;
     background: white;
 }
 
@@ -27,10 +39,11 @@ p2 {
 h1 {
     text-align: center;
     font-size: 2em;
+    font-weight: 600;
 }
 
 h1 span {
-    color: #fbbd15;
+    color: var(--secondary-colour);
 }
 
 h2 {
@@ -43,7 +56,7 @@ h2 {
 }
 
 h2 span {
-    color: #fbbd15;
+    color: var(--secondary-colour);
 }
 
 
@@ -63,7 +76,7 @@ h4 {
 }
 
 .subheading  {
-    color: #fbbd15;
+    color: var(--secondary-colour);
     font-weight: 300;
     font-size: 1.5em;
     line-height: 1px;
@@ -201,13 +214,11 @@ header {
 }
 
 .sticky {
-    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     background-color: white;
     z-index: 5;
-    box-shadow: 3px 4px 8px 3px rgba(0, 0, 0, 0.1);
 }
 .gluey {
     position: sticky;
@@ -280,7 +291,7 @@ display: block;
     height: 2.5px;
     margin-bottom: 5px;
     position: relative;
-    background: #fbbd15;
+    background: var(--secondary-colour);
     border-radius: 4px;
     z-index: 50;
     transform-origin: 5px 0px;
@@ -302,7 +313,7 @@ display: block;
   {
     opacity: 1;
     transform: rotate(45deg) translate(-3px, -1px);
-    background: #fbbd15;
+    background: var(--secondary-colour);
   }
   #menuToggle input:checked ~ span:nth-last-child(3)
   {
@@ -414,7 +425,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #fbbd15;
+    color: var(--secondary-colour);
 
 }
 
@@ -519,26 +530,11 @@ a.button {
 }
 
 .button.yellow {
-    background-color: #fbbd15;
+    background-color: var(--secondary-colour);
 }
 
 .button.yellow:hover {
  background-color: #1F4D7A;
-}
-
-.button-menu {
-    background-color: #fbbd15;
-    color: white;
-    position: relative;
-    display: inline-block;
-    transition: color .5s;
-    overflow:hidden;
-    border-radius: 5px;
-    width: auto;
-}
-
-.button-menu:hover {
-    color: #1F4D7A;
 }
 
 a.button-large {
@@ -639,7 +635,7 @@ a.button-large-white {
     transform: translateY(-5px);
   -webkit-transition: 0.4s ease;
   transition: 0.4s ease;
-  background-color: #fbbd15;
+  background-color: var(--secondary-colour);
 }
 
 .button-large:hover{
@@ -1066,54 +1062,6 @@ img#subhero-1 {
     margin-top: 1em;
     margin-right: 20em;
     margin-left: 20em;
-}
-
-.stripe1 {
-    background-color: #fbbd15;
-    clip-path: polygon(100% 0, 100% 0, 0 100%, 0 80%);
-    height: 500px;
-        left: 0%;
-        top: 105%;
-        height: 100vh;
-        width: 100%;
-        overflow: hidden;
-        position: absolute;
-        z-index: -1;
-        text-align: center;
-        display: block;
-        animation: 2s polygon;
-}
-
-.stripe2 {
-    background-color: #fbbd15;
-    clip-path: polygon(0 0, 0 0, 100% 84%, 100% 100%);
-    height: 500px;
-        left: 0%;
-        top: 5%;
-        height: 100vh;
-        width: 100%;
-        overflow: hidden;
-        position: absolute;
-        z-index: -1;
-        text-align: center;
-        display: block;
-        animation: 2s polygon;
-}
-
-.stripe3 {
-    background-color: #fbbd15;
-    clip-path: polygon(0 40%, 0 20%, 100% 90%, 100% 100%);
-    height: 500px;
-        left: 0%;
-        top: 10%;
-        height: 100vh;
-        width: 100%;
-        overflow: hidden;
-        position: absolute;
-        z-index: -1;
-        text-align: center;
-        display: block;
-        animation: 2s polygon;
 }
 
 .icon {
@@ -1595,7 +1543,7 @@ img#subhero-1 {
 }
 
 .hero-image-template.lower-hero {
-   margin-top: 80px;
+   margin-top: 40px;
 }
 
 .show-mobile {
@@ -1808,7 +1756,6 @@ a.card-link:hover .card {
     color: whitesmoke;
     padding-bottom: 5em;
     padding-top: 0.5em;
-    margin-top: 2em;
     display: inline-block;
     justify-content: space-between;
     
@@ -2439,7 +2386,7 @@ a.card-link:hover .card {
 
     .hero-image-template.lower-hero {
         background-size: contain;
-        margin-top: 90px;
+        margin-top: 40px;
      }
       
 
@@ -2528,47 +2475,13 @@ a.card-link:hover .card {
         transition: transform .5s;
         border-radius: 5px;
 
-        background-color: #fbbd15;
+        background-color: var(--secondary-colour);
         color: white;
       }
       .hover-fill:hover {
         color: #fff;
       }
       .hover-fill:hover:before {
-        transform: translateX(0);
-        border-radius: 5px;
-      }
-
-      .button-menu {
-        background-color: #fbbd15;
-        color: white;
-        position: relative;
-        display: inline-block;
-        transition: color .5s;
-        overflow:hidden;
-        border-radius: 5px;
-        width: 100%;
-    }
-
-    .button-menu:before {
-        content: '';
-        position: absolute;
-        top: 0; left: 0;
-        width: 100%; height: 100%;
-        z-index: -1;
-        transform-origin:0 0 ;
-        transform:translateX(-100%);
-        transition: transform .5s;
-        border-radius: 5px;
-
-        background-color: #1F4D7A;
-        color: white;
-      }
-      .button-menu:hover {
-        color: #fff;
-        
-      }
-      .button-menu:hover:before {
         transform: translateX(0);
         border-radius: 5px;
       }

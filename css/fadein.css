@@ -9,6 +9,51 @@ section.visible {
 }
 
 
+.fadeUp {
+  opacity: 0;
+  transform: translate(0, 40px); transition: all 1.5s;
+  }
+  
+  .fadeUpDelayed {
+    opacity: 0;
+    transform: translate(0, 40px); transition: all 1.5s;
+    -webkit-transition-delay: 500ms;
+    -moz-transition-delay: 500ms;
+    -o-transition-delay: 500ms;
+    transition-delay: 500ms;
+    
+  }
+  
+  .fadeUp.visible {
+  opacity: 1;
+  transform: translate(0, 0); 
+  }
+  
+  .fadeUpDelayed.visible {
+  opacity: 1;
+  transform: translate(0, 0); 
+  }
+  
+  .fadeIn {
+    opacity: 0;
+    transition: all 1.5s;
+  }
+  
+  .fadeIn.visible {
+    opacity: 1; transition: all 1.5s;
+  }
+
+      .heroFadeUp {
+        animation: heroFadeUp 1.5s;
+      }
+      @keyframes heroFadeUp {
+        from { opacity: 0; transform: translate(0, 40px) }
+        to   { opacity: 1; transform: translate(0, 0)}
+      }
+
+
+
+
 /*I put this  in made css to apply universally
 .heroFade {
     animation: fadein 2s;

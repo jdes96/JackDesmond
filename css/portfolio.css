@@ -1,11 +1,15 @@
 /*  1. Basic  ------------------------------------------------------- */
-@import url('https://fonts.googleapis.com/css?family=Overpass:400,200,900italic,900,700italic,700,600italic,600,400italic,300italic,300,200italic');
+@import url('"https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
-
-body {
-   font-family: 'Overpass';
-}
-
+:root {
+   --primary-colour: #1F4D7A;
+   --secondary-colour: black;
+   --highlight-colour: #D62828;
+   --white-colour: white;
+   --black-colour: black;
+   --primary-font: 'Work Sans';
+   --secondary-font: 'Work Sans';
+ }
 /*  5. Images  --------------------------------------------------------- */
 
 img {
@@ -225,7 +229,7 @@ img {
     padding-bottom: 0;
  }
  #portfolio h1 {
-    font: 5em 'Overpass', sans-serif;
+    font: 5em 'var(--primary-font)', sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
     text-align: center;
@@ -337,15 +341,15 @@ img {
 }
 
  .portfolio-item .portfolio-item-meta h5 {
-    font: 18px 'Overpass', sans-serif;
+    font-size: 2em;
     color: #fff;
-    font-weight: 900;
+    font-weight: 600;
     margin-bottom: 0px;
     padding-bottom: 0px;
  }
  .portfolio-item .portfolio-item-meta p {
-    font: 15px 'Overpass', sans-serif;
-    font-weight: 200;
+    font: 15px var(--primary-font), sans-serif;
+    font-weight: 400;
     color: #fff;
     margin-bottom: 0;
     margin-top: 0px;
@@ -385,18 +389,18 @@ img {
  }
  .popup-modal .description-box { padding: 12px 36px 18px 36px; }
  .popup-modal .description-box h4 {
-    font: 15px/24px 'Overpass', sans-serif;
+    font: 15px/24px var(--primary-font), sans-serif;
     font-weight: 600;
      margin-bottom: 12px;
     color: #111;
  }
  .popup-modal .description-box p {
-     font: 14px/24px 'Overpass', sans-serif;
+     font: 14px/24px var(--primary-font), sans-serif;
     color: #A1A1A1;
     margin-bottom: 12px;
  }
  .popup-modal .description-box .categories {
-    font: 11px/21px 'Overpass', sans-serif;
+    font: 11px/21px var(--primary-font), sans-serif;
     font-weight: 200;
     color: #A1A1A1;
     text-transform: uppercase;
@@ -422,7 +426,7 @@ img {
  }
  .popup-modal .link-box a {
     color: #fff;
-     font: 11px/21px 'Overpass', sans-serif;
+     font: 11px/21px var(--primary-font), sans-serif;
      font-weight: 600;
      text-transform: uppercase;
     letter-spacing: 3px;
