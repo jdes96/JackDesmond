@@ -160,8 +160,6 @@ ul {
     position: relative;
     
     max-width: 100%;
-    margin-right: 10px;
-    margin-left: 40px;
 }
 
 
@@ -178,6 +176,7 @@ ul {
     padding-left: 20px;
     cursor: pointer;
     z-index: 10;
+    transition: 400ms ease-in-out;
 }
 
 .logo-footer.logo-box::before {
@@ -399,7 +398,7 @@ nav ul li.menu-icon{
 }
 
 .menu-icon::before {
-    content: url(/images/instagram.svg);
+    content: none;
     display: inline-block;
     width: 30px;
     margin-top: 30%;
@@ -2382,6 +2381,7 @@ a.card-link:hover .card {
 
     .logo-box::before {
         width: 280px;
+        transition: 400ms ease-in-out;
     }
 
     .hero-image-template.lower-hero {
@@ -2495,14 +2495,14 @@ a.card-link:hover .card {
         padding-bottom: 10px;
         margin-bottom: 0;
         text-transform: none;
-        font-weight: 300;
+        font-weight: 400;
         font-size: 1em; 
         padding-top: 1em;
     }
 
     nav ul li a:hover {
         background-color: inherit;
-        color: #1F4D7A;
+        color: var(--black-colour);
     
     }
 
